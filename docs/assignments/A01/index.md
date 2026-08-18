@@ -4,7 +4,7 @@
 
 
 ## Analyze
-Task A) Portfolio analysis:
+Task A: Portfolio analysis:
 
   https://thanhvtran.com/
 
