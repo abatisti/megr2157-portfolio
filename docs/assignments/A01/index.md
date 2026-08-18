@@ -4,7 +4,7 @@
 
 
 ## Analyze
-Task A: Portfolio analysis:
+**Task A: Portfolio analysis**
 
   https://thanhvtran.com/
 
@@ -14,6 +14,7 @@ Task A: Portfolio analysis:
   It is also worth mentioning that the portfolio has a sophisticated visual design. The background videos, overall organization, and numerous images provide visual representation of each section and make the portfolio engaging to explore. 
   Overall, the portfolio is effective at summarizing the author’s projects, internships, and other accomplishments, but it is less effective as a technical record because it does not provide enough documentation or reasoning for the projects to be independently reproduced. 
 
+**Task B: Product Analysis**
 
 
 ## Decide
