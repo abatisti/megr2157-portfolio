@@ -17,6 +17,7 @@
 **Task B: Product Analysis**
 
   **Product chosen:** Combination wrench
+  
 **a)** The primary function of this product is to transform an applied force into torque, using mechanical advantage, to tighten or loosen an external fastener. 
 
 **b)** The physical principle that governs its behavior is torque.
