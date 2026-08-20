@@ -25,10 +25,10 @@
 τ = F × r × sin(θ)
 
 where:
-τ (Tau): torque (N·m) 
-F: force applied (N) 
-r: perpendicular distance from the pivot point to the point where the force is applied (m) 
-θ (Theta): angle between the force line and the lever arm 
+- τ (Tau): torque (N·m)
+- F: force applied (N)
+- r: perpendicular distance from the pivot point to the point where the force is applied (m)
+- θ (Theta): angle between the force line and the lever arm
 
 One assumption that makes this model valid is that the wrench is sufficiently rigid, allowing the deformation caused by the applied force to be neglected.
 
