@@ -44,6 +44,17 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 
 ## Decide
 
+**1. Homepage identity:**  
+&nbsp;&nbsp;&nbsp;&nbsp;  A visitor needs to know that the main objective of my portfolio is to document my MEGR 2157 assignments and the overall course work completed throughout the class, and that it is organized to provide an efficient and optimized way to access this information.  
+&nbsp;&nbsp;&nbsp;&nbsp;   My intended readers are primarily graders and future students looking for portfolio references for this specific class; therefore, the homepage should focus on the class, its content, and its assignments rather than on the person creating it. This allows visitors to immediately understand what the portfolio contains and how it is organized.  
+
+  
+**2. One Intentional Customization:**  
+&nbsp;&nbsp;&nbsp;&nbsp;  I changed the typography of my portfolio by adding proper paragraph formatting. This was done by adding separation between paragraphs and indenting the beginning of each paragraph, which was not present in the original template. This change better satisfies the requirement for readability and organized presentation, making it easier for a reader to distinguish between different ideas and sections of text. The template default did not meet this requirement because the text was presented with paragraphs visually “smashed together,” making the information more difficult to read and separate.  
+
+**3. Your Documentation Standard:**  
+&nbsp;&nbsp;&nbsp;&nbsp;  I will uphold the standard of updating each chapter of this portfolio on time, aiming to start my assignments as early as possible and documenting each one with organized, concise, and understandable information that clearly explains my decision-making, approach, and results for graders and future visitors.
+
 
 ## Communicate
 
