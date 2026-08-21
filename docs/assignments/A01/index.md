@@ -47,8 +47,8 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 ## Decide
 
 **1. Homepage identity:**  
-&nbsp;&nbsp;&nbsp;&nbsp;  A visitor needs to know that the main objective of my portfolio is to document my MEGR 2157 assignments and the overall course work completed throughout the class, and that it is organized to provide an efficient and optimized way to access this information.  
-&nbsp;&nbsp;&nbsp;&nbsp;   My intended readers are primarily graders and future students looking for portfolio references for this specific class; therefore, the homepage should focus on the class, its content, and its assignments rather than on the person creating it. This allows visitors to immediately understand what the portfolio contains and how it is organized.  
+&nbsp;&nbsp;&nbsp;&nbsp;  The main objective of this portfolio is to document my MEGR 2157 assignments and the overall course work completed throughout the class, and that it is organized to provide an efficient and optimized way to access this information.  
+&nbsp;&nbsp;&nbsp;&nbsp;   Intended readers are primarily graders and future students looking for portfolio references for this specific class; therefore, the homepage should focus on the class, its content, and its assignments rather than on the person creating it. This allows visitors to immediately understand what the portfolio contains and how it is organized.  
 
   
 **2. One Intentional Customization:**  
