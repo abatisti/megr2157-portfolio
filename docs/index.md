@@ -2,7 +2,10 @@
 
 ![MEGR 2156-7 Title](MEGR2156title.png)
 
-This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
+&nbsp;&nbsp;&nbsp;&nbsp;  The main objective of this portfolio is to document my MEGR 2157 assignments and the overall course work completed throughout the class, and that it is organized to provide an efficient and optimized way to access this information.  
+&nbsp;&nbsp;&nbsp;&nbsp;   Intended readers are primarily graders and future students looking for portfolio references for this specific class; therefore, the homepage should focus on the class, its content, and its assignments rather than on the person creating it. This allows visitors to immediately understand what the portfolio contains and how it is organized. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;  This site is the working record of your engineering design decisions across MEGR 2157. Every entry follows the Analyze, Decide, Communicate structure in accordance with standard engineering documentation practice, so a reader can see not just what you built, but how and why you built it that way. Engineering documentation is a skill developed through deliberate practice. Each assignment is an opportunity to improve the precision, clarity, and professional quality of how you record and defend your work. As you progress through the semester your engineering capability will grow alongside your documentation — this portfolio is the record of that journey.
 
 > **Engineering is the art of making decisions you can defend.**
 
