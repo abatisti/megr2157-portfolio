@@ -41,7 +41,7 @@ where:
 One assumption that makes this model valid is that the wrench is sufficiently rigid, allowing the deformation caused by the applied force to be neglected.
 
 
-
+<br><br>
 ## Decide
 
 **1. Homepage identity:**  
@@ -55,7 +55,7 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 **3. Your Documentation Standard:**  
 &nbsp;&nbsp;&nbsp;&nbsp;  I will uphold the standard of updating each chapter of this portfolio on time, aiming to start my assignments as early as possible and documenting each one with organized, concise, and understandable information that clearly explains my decision-making, approach, and results for graders and future visitors.
 
-
+<br><br>
 ## Communicate  
 
 Populated into "about me" section of the home paige.
