@@ -4,6 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The objective of this assignment is to develop and practice the ability to clearly explain engineering decision-making, approach, and results through the creation and evaluation of an engineering portfolio. This assignment also introduces the process of designing and organizing a portfolio that effectively documents engineering work, which can be applied to creating and maintaining a professional portfolio in the future.
 
+<br><br>
 ## Analyze
 **Task A: Portfolio analysis**
 
