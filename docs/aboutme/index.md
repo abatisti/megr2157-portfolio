@@ -1,5 +1,3 @@
-## About Me  
-
 <p align="center">Ana Carolina Batisti da Silva
 <br><br>
 <p align="left">
