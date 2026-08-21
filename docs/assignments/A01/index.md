@@ -21,7 +21,7 @@ https://nhoong.github.io/index.html
 &nbsp;&nbsp;&nbsp;&nbsp;  On the other hand, besides the passages that are extremely short, especially in the projects section, the overall language of the portfolio is appropriate for an employer-facing document and satisfies the engineering language requirements.  
 &nbsp;&nbsp;&nbsp;&nbsp;  In summary, despite the portfolio being visually appealing at first glance, it lacks a significant amount of technical information, making it difficult for a fellow engineer to understand the author’s reasoning or reproduce the work based on the available documentation.
 
-
+<br><br>
 **Task B: Product Analysis**
 
   **Product chosen:** Combination wrench
