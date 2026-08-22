@@ -42,6 +42,15 @@ where:
 
 One assumption that makes this model valid is that the wrench is sufficiently rigid, allowing the deformation caused by the applied force to be neglected.
 
+**c)** 
+
+**Open end:** The U-shaped opening allows the wrench to be placed onto a fastener from the side when there is limited top clearance. Its two parallel jaws contact opposite surfaces of the fastener and transfer the applied torque.  
+
+**Box end:** The enclosed opening surrounds the fastener and contacts multiple faces, providing more consistent force distribution during torque application. The box end is offset from the handle to provide additional clearance for the user's hand and surrounding components.  
+
+**Handle:** The elongated geometry increases the distance between the applied force and the fastener, increasing the torque produced for the same applied force.
+
+
 
 <br><br>
 ## Decide
