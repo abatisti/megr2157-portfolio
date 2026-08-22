@@ -28,7 +28,8 @@ https://nhoong.github.io/index.html
 
   **Product chosen:** Combination wrench
   
-  <img width="1024" height="768" alt="Combined wrench" src="https://github.com/user-attachments/assets/f7d280e6-fd11-4c03-bf70-0ffcd044660a" />
+ <img width="896" height="238" alt="Combined wrench" src="https://github.com/user-attachments/assets/74d55287-9f74-49dd-bc36-dad68d256e33" />
+
 
   
 **a)** The primary function of this product is to transform an applied force into torque, using mechanical advantage, to tighten or loosen an external fastener. 
