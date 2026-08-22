@@ -73,7 +73,7 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 **d)** It was difficult to identify the specific patent corresponding to my combination wrench because many similar designs exist. Therefore, using Google Patents, I selected the patent that most closely resembled the geometry and functionality of my tool. The selected patent is US20030167885A1 – “Wrench adapted for lever arm extension,” invented by Bruce Coggins, and Brandon Luke.
 
 <br><br>
-Two alternative devices that can be used in place of the combination wrench are:  
+&nbsp;&nbsp;&nbsp;&nbsp;  Two alternative devices that can be used in place of the combination wrench are:  
 
 - Adjustable wrench: An adjustable wrench uses a movable jaw to accommodate different fastener sizes and applies torque to tighten or loosen them.
   
@@ -81,7 +81,7 @@ Two alternative devices that can be used in place of the combination wrench are:
 
 
 <br><br>
-Unfortunately, although this patent includes a combination wrench, its primary focus is not its conventional features. Instead, the invention adds a slot/channel and notch around the ends, allowing a second wrench to be securely coupled as a lever-arm extension. I believe its geometry was chosen to prevent the second wrench from rotating or buckling when force is applied, keeping the two tools securely aligned. As a result, the effective lever arm can be increased, allowing the user to generate greater torque with the same applied force.
+&nbsp;&nbsp;&nbsp;&nbsp;  Unfortunately, although this patent includes a combination wrench, its primary focus is not its conventional features. Instead, the invention adds a slot/channel and notch around the ends, allowing a second wrench to be securely coupled as a lever-arm extension. I believe its geometry was chosen to prevent the second wrench from rotating or buckling when force is applied, keeping the two tools securely aligned. As a result, the effective lever arm can be increased, allowing the user to generate greater torque with the same applied force.
 
 <br><br>
 ## Decide
