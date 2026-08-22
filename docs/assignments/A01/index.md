@@ -67,9 +67,7 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 **Handle:** The elongated geometry increases the distance between the applied force and the fastener, increasing the torque produced for the same applied force.
 
 <br><br>
-**d)** 
-
-It was difficult to identify the specific patent corresponding to my combination wrench because many similar designs exist. Therefore, using Google Patents, I selected the patent that most closely resembled the geometry and functionality of my tool. The selected patent is US20030167885A1 – “Wrench adapted for lever arm extension,” invented by Bruce Coggins, and Brandon Luke.
+**d)** It was difficult to identify the specific patent corresponding to my combination wrench because many similar designs exist. Therefore, using Google Patents, I selected the patent that most closely resembled the geometry and functionality of my tool. The selected patent is US20030167885A1 – “Wrench adapted for lever arm extension,” invented by Bruce Coggins, and Brandon Luke.
 
 Two alternative devices that can be used in place of the combination wrench are:  
 - Adjustable wrench: An adjustable wrench uses a movable jaw to accommodate different fastener sizes and applies torque to tighten or loosen them.
