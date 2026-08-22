@@ -1,4 +1,3 @@
-<img width="1024" height="768" alt="Combined wrench" src="https://github.com/user-attachments/assets/e31221ee-f2e6-4118-b2a2-423ebcc131d9" />
 # A1 – Create Portfolio
 
 ## Objective
