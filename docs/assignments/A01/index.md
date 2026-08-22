@@ -74,8 +74,11 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 
 <br><br>
 Two alternative devices that can be used in place of the combination wrench are:  
+
 - Adjustable wrench: An adjustable wrench uses a movable jaw to accommodate different fastener sizes and applies torque to tighten or loosen them.
+  
 - Socket wrench: A socket wrench uses an enclosed socket that surrounds the fastener and transfers torque through the contact surfaces of the socket.
+
 
 <br><br>
 Unfortunately, although this patent includes a combination wrench, its primary focus is not its conventional features. Instead, the invention adds a slot/channel and notch around the ends, allowing a second wrench to be securely coupled as a lever-arm extension. I believe its geometry was chosen to prevent the second wrench from rotating or buckling when force is applied, keeping the two tools securely aligned. As a result, the effective lever arm can be increased, allowing the user to generate greater torque with the same applied force.
