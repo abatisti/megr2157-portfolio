@@ -54,13 +54,13 @@ One assumption that makes this model valid is that the wrench is sufficiently ri
 
 **Open end:** The U-shaped opening allows the wrench to be placed onto a fastener from the side when there is limited top clearance. Its two parallel jaws contact opposite surfaces of the fastener and transfer the applied torque.  
 
-
+<br><br>
 <img width="238" height="238" alt="Combined wrench - Box end" src="https://github.com/user-attachments/assets/bcea16f1-4b42-486f-a5fc-cde5ce9926d1" />
 
 
 **Box end:** The enclosed opening surrounds the fastener and contacts multiple faces, providing more consistent force distribution during torque application. The box end is offset from the handle to provide additional clearance for the user's hand and surrounding components.  
 
-
+<br><br>
 <img width="578" height="168" alt="Combined wrench - handle" src="https://github.com/user-attachments/assets/3604e6c8-8132-47f7-9e66-b54205851da2" />
 
 
