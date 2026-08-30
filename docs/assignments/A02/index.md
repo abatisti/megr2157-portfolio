@@ -32,4 +32,4 @@
 
 **Cross-sectional Area Calculation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;  By using the maximum internal force found, the factor of safety and the yield stress of chosen material (A-36 steel) it is possible to find the minimum cross sectional area.
+&nbsp;&nbsp;&nbsp;&nbsp;  By using the maximum internal force found, the factor of safety and the yield stress of chosen material (A-36 steel) it is possible to find the minimum cross sectional area, and its approximate weight.
