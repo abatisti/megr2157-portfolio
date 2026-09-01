@@ -80,8 +80,7 @@
 
 <img width="992" height="307" alt="Screenshot 2026-09-01 152443" src="https://github.com/user-attachments/assets/fa0ebd0c-563e-4faf-8e4e-99a03f018036" />
 
-
-
+<br><br>
 **Model study**
 
 <br>
