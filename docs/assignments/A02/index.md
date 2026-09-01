@@ -48,4 +48,4 @@
 
 **Cross-sectional Area Calculation**
 
-&nbsp;&nbsp;&nbsp;&nbsp;  By using the maximum internal force found, the factor of safety and the yield stress of chosen material (A-36 steel) it is possible to find the minimum cross sectional area, and its approximate weight.
+&nbsp;&nbsp;&nbsp;&nbsp;  Using the known and calculated values of the maximum internal force (37.97 kN), the selected factor of safety (3.5), and the yield strength of A-36 steel (250 MPa), I determined the minimum required cross-sectional area for the truss members(Amin). This area was then used to estimate the approximate weight of the truss.
