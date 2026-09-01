@@ -74,6 +74,13 @@
 **SolidWorks Model**
 
 
+[A2 design.html](https://github.com/user-attachments/files/31711453/A2.design.html)  (without pin area)
+
+
+[A2 design 2.html](https://github.com/user-attachments/files/31711514/A2.design.2.html)  (with pin area)
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;  Two main designs were created. The first included only the truss members and was used for the simulation and analysis because its simpler geometry made it easier to work with in the software. The second design included the necessary spacing to accommodate the pins.
 
 <img width="995" height="307" alt="image" src="https://github.com/user-attachments/assets/ff56bc3e-668e-45a4-942b-f8e26e41d54f" />
@@ -119,7 +126,20 @@ The internal forces obtained from the SolidWorks simulation were consistent with
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The pins are a greater concern because the pin selected for the maximum shear calculation was based on a support reaction, rather than on the pins experiencing the largest applied loads. In this truss, pins C and D may be more critical because each connection directly transfers a 20 kN applied load. Therefore, these connections should be considered when evaluating the likelihood of pin failure.  
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;  The expected failure mode for the pins is shear yielding. The pin was designed using a yield shear strength of 170 ksi and a factor of safety of 4, resulting in a required cross-sectional area of 0.2275 cm².  
 
 &nbsp;&nbsp;&nbsp;&nbsp;  To reduce the likelihood of shear failure, the pin diameter could be increased, which would increase its cross-sectional area and reduce the shear stress for the same applied load. Additionally, increasing the material strength of the pin could provide greater resistance to shear.
+
+
+<br><br>
+
+**Solidworks link**
+
+[A2 design.html](https://github.com/user-attachments/files/31711453/A2.design.html)  (without pin area)
+
+
+[A2 design 2.html](https://github.com/user-attachments/files/31711514/A2.design.2.html)  (with pin area)
+
+
 
