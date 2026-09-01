@@ -8,7 +8,9 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Where P between 20 - 30 kN. a = 0.4 m, b = 0.3 m. Point A is a pin and point B is a roller.  
+
 - P was chosen to equal 20 kN: will cause the least force and stress on the truss.
+  
 - A-36 steel was chosen as the material because it is a communly used steel and has a yield stress similar to the material pointedin the assingment.
 
 <br><br>
