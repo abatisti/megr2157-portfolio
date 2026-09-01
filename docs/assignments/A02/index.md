@@ -65,7 +65,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Finally, the required pin diameter was calculated and used as a reference for the SolidWorks design.
 
-<img width="1315" height="1871" alt="SmartSelect_20260901_145359_Samsung Notes" src="https://github.com/user-attachments/assets/d315067c-3a88-4a44-8a55-5cd3257fceb1" />  
+<img width="1196" height="1831" alt="SmartSelect_20260901_155959_Samsung Notes" src="https://github.com/user-attachments/assets/8fa23c6d-66f4-48fa-85fd-4c046223895b" /> 
 
 
 <br><br>
