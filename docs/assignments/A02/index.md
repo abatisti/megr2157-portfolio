@@ -67,3 +67,30 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  Finally, the required pin diameter was calculated and used as a reference for the SolidWorks design.
 
 <img width="1315" height="1871" alt="SmartSelect_20260901_145359_Samsung Notes" src="https://github.com/user-attachments/assets/d315067c-3a88-4a44-8a55-5cd3257fceb1" />
+
+
+**SolidWorks Model**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Two main designs were created. The first included only the truss members and was used for the simulation and analysis because its simpler geometry made it easier to work with in the software. The second design included the necessary spacing to accommodate the pins.
+
+<img width="995" height="307" alt="image" src="https://github.com/user-attachments/assets/ff56bc3e-668e-45a4-942b-f8e26e41d54f" />
+
+
+<img width="992" height="307" alt="Screenshot 2026-09-01 152443" src="https://github.com/user-attachments/assets/fa0ebd0c-563e-4faf-8e4e-99a03f018036" />
+
+
+**Model study**
+
+
+<img width="1098" height="481" alt="Screenshot 2026-09-01 153257" src="https://github.com/user-attachments/assets/d0d59064-8e41-431f-b8ff-daeb56129152" />
+The minimum factor of safety throughout the truss in SolidWorks is 3.5. This result agree with the design requirement and calculations.
+
+
+<img width="271" height="126" alt="image" src="https://github.com/user-attachments/assets/fb60986c-01cc-4aa1-a261-e71a0a0496fb" />
+Result of the SolidWorks mass properties. The overall body weight was very similar to the calculated value, supporting the accuracy of the design calculations.
+
+
+<img width="385" height="487" alt="image" src="https://github.com/user-attachments/assets/fd2c1f17-0e19-49ab-ae47-1f3214cc0998" />
+The internal forces obtained from the SolidWorks simulation were consistent with the calculated internal forces for each truss member, providing further validation of the analytical results.
+
