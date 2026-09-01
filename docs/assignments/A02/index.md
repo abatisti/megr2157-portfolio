@@ -45,6 +45,21 @@
 
 
 
-**Cross-sectional Area Calculation**
+**Truss Cross-sectional Area and Weight Calculation**
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Using the known and calculated values of the maximum internal force (37.97 kN), the selected factor of safety (3.5), and the yield strength of A-36 steel (250 MPa), I determined the minimum required cross-sectional area for the truss members(Amin). This area was then used to estimate the approximate weight of the truss.
+
+<img width="1304" height="1099" alt="SmartSelect_20260901_144008_Samsung Notes" src="https://github.com/user-attachments/assets/0ad1e56d-e3c0-460e-8354-899fbe50aa0f" />
+
+
+**Pins Cross-sectional Area and Weight Calculation**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  According to the assignment instructions, the pin design should be based on the largest reaction load. Although this is different from the approach I initially expected, I followed the specified criteria. Pin A was selected for analysis because it has fewer forces acting on it, making its FBD and force distribution easier to visualize.
+
+&nbsp;&nbsp;&nbsp;&nbsp;  For this pin, the maximum shear force is taken as the reaction force at A, (Ra), which represents the resultant load transferred through the pin. Additionally, the yield shear strength and the density of the material were provided and converted into SI units. The minimum cross-sectional area of the truss members will be used to establish the required length of the pins.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Finally, the required pin diameter was calculated and used as a reference for the SolidWorks design.
+
+<img width="1315" height="1871" alt="SmartSelect_20260901_145359_Samsung Notes" src="https://github.com/user-attachments/assets/d315067c-3a88-4a44-8a55-5cd3257fceb1" />
