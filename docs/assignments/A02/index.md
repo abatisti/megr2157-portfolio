@@ -87,13 +87,15 @@
 
 <img width="1098" height="481" alt="Screenshot 2026-09-01 153257" src="https://github.com/user-attachments/assets/d0d59064-8e41-431f-b8ff-daeb56129152" />  
 
-The minimum factor of safety throughout the truss in SolidWorks is 3.5. This result agree with the design requirement and calculations.
+The minimum factor of safety throughout the truss in SolidWorks is 3.5. This result agree with the design requirement and calculations.  
+
 
 
 
 <img width="271" height="126" alt="image" src="https://github.com/user-attachments/assets/fb60986c-01cc-4aa1-a261-e71a0a0496fb" />  
 
-Result of the SolidWorks mass properties. The overall body weight was very similar to the calculated value, supporting the accuracy of the design calculations.
+Result of the SolidWorks mass properties. The overall body weight was very similar to the calculated value, supporting the accuracy of the design calculations.  
+
 
 
 
