@@ -35,8 +35,7 @@
 
 <img width="1186" height="1215" alt="SmartSelect_20260830_170322_Samsung Notes" src="https://github.com/user-attachments/assets/3b0c2728-81a6-4a1f-a4bf-699551607c8f" />
 
-<img width="1187" height="1690" alt="SmartSelect_20260901_120840_Samsung Notes" src="https://github.com/user-attachments/assets/c8bf6750-8246-4b63-bc87-ce57ee8611ae" />
-
+<img width="1252" height="1798" alt="SmartSelect_20260901_142745_Samsung Notes" src="https://github.com/user-attachments/assets/185cc061-303b-4884-85bf-d3fe0862dda2" />
 
 <img width="1179" height="1676" alt="SmartSelect_20260830_180347_Samsung Notes" src="https://github.com/user-attachments/assets/6cabae6d-3616-4af6-9a99-41fd40b9309c" />
 
