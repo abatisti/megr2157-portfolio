@@ -11,7 +11,7 @@
 
 - P was chosen to equal 20 kN: will cause the least force and stress on the truss.
   
-- A-36 steel was chosen as the material because it is a communly used steel and has a yield stress similar to the material pointedin the assingment.
+- A-36 steel was chosen as the material because it is a commonly used steel and has a yield stress similar to the material pointed in the assignment.
 
 <br><br>
 **Design sketching**
