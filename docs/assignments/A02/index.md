@@ -92,8 +92,32 @@ The minimum factor of safety throughout the truss in SolidWorks is 3.5. This res
 
 Result of the SolidWorks mass properties. The overall body weight was very similar to the calculated value, supporting the accuracy of the design calculations.  
 
+
 <br><br>
 <img width="385" height="487" alt="image" src="https://github.com/user-attachments/assets/fd2c1f17-0e19-49ab-ae47-1f3214cc0998" />  
 
 The internal forces obtained from the SolidWorks simulation were consistent with the calculated internal forces for each truss member, providing further validation of the analytical results.
+
+
+<br><br>
+**Likelihood of Failure Modes in Truss Components**
+
+<br> 
+
+**Truss Members**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  After analyzing the truss, no member is expected to fail under the applied loading, as all members remain within the required factor of safety. However, if failure were to occur, the general failure mode would depend on the type of loading. Members under tension, such as AD and BD, would be expected to experience yielding, while members under compression, such as AB, BC, and CD, would be more susceptible to buckling. Throughout the truss, A-36 steel was used, which is a ductile material.
+
+
+<br>
+
+**Pins**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  The pins are a greater concern because the pin selected for the maximum shear calculation was based on a support reaction, rather than on the pins experiencing the largest applied loads. In this truss, pins C and D may be more critical because each connection directly transfers a 20 kN applied load. Therefore, these connections should be considered when evaluating the likelihood of pin failure.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  The expected failure mode for the pins is shear yielding. The pin was designed using a yield shear strength of 170 ksi and a factor of safety of 4, resulting in a required cross-sectional area of 0.2275 cm².  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  To reduce the likelihood of shear failure, the pin diameter could be increased, which would increase its cross-sectional area and reduce the shear stress for the same applied load. Additionally, increasing the material strength of the pin could provide greater resistance to shear.
 
