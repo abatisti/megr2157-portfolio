@@ -57,6 +57,10 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  According to the assignment instructions, the pin design should be based on the largest reaction load. Although this is different from the approach I initially expected, I followed the specified criteria. Pin A was selected for analysis because it has fewer forces acting on it, making its FBD and force distribution easier to visualize.
 
+
+<img width="1321" height="231" alt="SmartSelect_20260901_151804_Samsung Notes" src="https://github.com/user-attachments/assets/4741cfb3-9b00-4940-be32-53301cc53ec5" />
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;  For this pin, the maximum shear force is taken as the reaction force at A, (Ra), which represents the resultant load transferred through the pin. Additionally, the yield shear strength and the density of the material were provided and converted into SI units. The minimum cross-sectional area of the truss members will be used to establish the required length of the pins.
 
 
