@@ -7,6 +7,9 @@
 **Given Template:**
 
 
+<img width="556" height="307" alt="image" src="https://github.com/user-attachments/assets/9400bb17-67e9-4595-b709-22c5e60f427a" />
+
+
 &nbsp;&nbsp;&nbsp;&nbsp;  Where P between 20 - 30 kN. a = 0.4 m, b = 0.3 m. Point A is a pin and point B is a roller.  
 
 - P was chosen to equal 20 kN: will cause the least force and stress on the truss.
