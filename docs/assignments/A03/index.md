@@ -1,4 +1,3 @@
-<img width="1332" height="536" alt="SmartSelect_20260903_132629_Samsung Notes" src="https://github.com/user-attachments/assets/baeac4d9-fd50-4f4c-b179-0ef908331d7d" />
 # A3 – Parametric and FEA
 
 - decided to go with a simples cross sectional shape, such as a square, with Area (A) equals to its dimention (d) square: A = d^2.
