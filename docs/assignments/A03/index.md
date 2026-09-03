@@ -19,4 +19,4 @@ The deformation turned out to be a little smaller than the expected one, which m
 
 
 
-This assingment took less than 1 hours so far
+This assingment took less than 1 hours so far, no mistakes were done so far.
