@@ -12,6 +12,17 @@ To make desing simpler and cleaner to analyze I'll chose d=1 in, and therefore A
 
 **Results**
 
+
+<img width="1497" height="718" alt="Screenshot 2026-09-03 131210" src="https://github.com/user-attachments/assets/563777c8-4919-4977-a090-aca64e3d9756" />
+
+<img width="1463" height="762" alt="Screenshot 2026-09-03 131226" src="https://github.com/user-attachments/assets/3584f0ec-2b77-4ecb-97af-9fb6444cb02e" />
+
+<img width="1447" height="792" alt="Screenshot 2026-09-03 131241" src="https://github.com/user-attachments/assets/738cb902-8158-491a-9469-7f5e44fbdce8" />
+
+<img width="1491" height="762" alt="Screenshot 2026-09-03 131252" src="https://github.com/user-attachments/assets/91ca7709-2cb9-4478-bd37-c7a6857c7cff" />
+
+
+
 The deformation turned out to be a little smaller than the expected one, which may have been caused from the accuracy (amount of sig. figs) used both for me and the software.
 
 - Percentage difference:
