@@ -23,14 +23,15 @@ This assignment focuses on designing for stiffness by analyzing a bar under an a
 
 After modeling the design and running a study using the selected applied force, the following results were obtained:
 
+<br><br>
 <img width="1463" height="762" alt="Screenshot 2026-09-03 131226" src="https://github.com/user-attachments/assets/3584f0ec-2b77-4ecb-97af-9fb6444cb02e" />
 The resulting maximum deflection was 0.008998 in, which closely matches the target deflection of 0.009 in.  
 
-<br>
+<br><br>
 <img width="1497" height="718" alt="Screenshot 2026-09-03 131210" src="https://github.com/user-attachments/assets/563777c8-4919-4977-a090-aca64e3d9756" />
 The maximum Von Mises stress was \(5.663\times10^2\) psi, which is significantly below the material's yield strength.
 
-<br>
+<br><br>
 <img width="1491" height="762" alt="Screenshot 2026-09-03 131252" src="https://github.com/user-attachments/assets/91ca7709-2cb9-4478-bd37-c7a6857c7cff" />
 The minimum factor of safety throughout the part was 14, further indicating that the design remains below the material's yield limit under the applied load.
 
@@ -43,8 +44,6 @@ The minimum factor of safety throughout the part was 14, further indicating that
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The calculated and simulated deflections are essentially the same, and the small difference can be attributed to numerical precision and the finite element approximation used in the simulation. The FEA result can be trusted more because it accounts for the modeled geometry and loading conditions directly.
 
-
-&nbsp;&nbsp;&nbsp;&nbsp;  All this section above was done in 2 hours, and no mistakes were made.
 
 <br><br>
 **Modify Design Parameters**
@@ -70,3 +69,25 @@ The new design parameters are:
 <img width="1215" height="598" alt="Screenshot 2026-09-04 182455" src="https://github.com/user-attachments/assets/2210a388-e9fb-46c6-8cf6-0c19d0c88c4b" />
 
 <img width="1157" height="573" alt="image" src="https://github.com/user-attachments/assets/519179cd-6d01-44f7-86a1-20645681b5b8" />
+
+
+
+
+**Final Note**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; This project took approximately 4 hours to complete, and no significant errors were encountered during the design and analysis process.
+
+
+
+**Solidworks Link**
+
+
+Model 1:  
+
+https://1drv.ms/u/c/18c7b03a5d0433a3/IQBy-eWoYJCgSphpj3KuiF0EAWltDo41Frg7pJZ21T3tCc0?e=GmNQAH 
+
+
+Model 2:  
+
+https://1drv.ms/u/c/18c7b03a5d0433a3/IQAIFq0Kk0DNTbuf5MvlTKrsAcwp2BacciWxWtAU3ckMmUM?e=ql2FXo
