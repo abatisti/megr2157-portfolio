@@ -22,21 +22,25 @@ This assignment focuses on designing for stiffness by analyzing a bar under an a
 **Results**
 
 After modeling the design and running a study using the selected applied force, the following results were obtained:
-<img width="1497" height="718" alt="Screenshot 2026-09-03 131210" src="https://github.com/user-attachments/assets/563777c8-4919-4977-a090-aca64e3d9756" />
 
 <img width="1463" height="762" alt="Screenshot 2026-09-03 131226" src="https://github.com/user-attachments/assets/3584f0ec-2b77-4ecb-97af-9fb6444cb02e" />
+The resulting maximum deflection was 0.008998 in, which closely matches the target deflection of 0.009 in.  
 
-<img width="1447" height="792" alt="Screenshot 2026-09-03 131241" src="https://github.com/user-attachments/assets/738cb902-8158-491a-9469-7f5e44fbdce8" />
+<br>
+<img width="1497" height="718" alt="Screenshot 2026-09-03 131210" src="https://github.com/user-attachments/assets/563777c8-4919-4977-a090-aca64e3d9756" />
+The maximum Von Mises stress was \(5.663\times10^2\) psi, which is significantly below the material's yield strength.
 
+<br>
 <img width="1491" height="762" alt="Screenshot 2026-09-03 131252" src="https://github.com/user-attachments/assets/91ca7709-2cb9-4478-bd37-c7a6857c7cff" />
+The minimum factor of safety throughout the part was 14, further indicating that the design remains below the material's yield limit under the applied load.
 
+<br><br>
+**Result Reflection**
 
-
-The deformation turned out to be a little smaller than the expected one, which may have been caused from the accuracy (amount of sig. figs) used both for me and the software.
 
 - Percentage difference:
 <img width="1332" height="536" alt="SmartSelect_20260903_132629_Samsung Notes" src="https://github.com/user-attachments/assets/77a2fb67-f39e-4e65-a1f2-498f1227b455" />
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;  The calculated and simulated deflections are essentially the same, and the small difference can be attributed to numerical precision and the finite element approximation used in the simulation. The FEA result can be trusted more because it accounts for the modeled geometry and loading conditions directly.
 
 This assingment took less than 1 hours so far, no mistakes were done so far.
