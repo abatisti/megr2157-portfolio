@@ -1,7 +1,12 @@
 # A3 – Parametric and FEA
 
-- decided to go with a simples cross sectional shape, such as a square, with Area (A) equals to its dimention (d) square: A = d^2.
-To make desing simpler and cleaner to analyze I'll chose d=1 in, and therefore A= 1 in^2
+
+This assignment focuses on designing for stiffness by analyzing a bar under an axial load using parametric modeling and finite element analysis (FEA). The objective is to investigate how force, geometry, and material properties affect axial deflection and use these relationships to develop and evaluate a suitable bar design.
+
+**Design Choices**
+
+
+- A square cross-sectional shape was selected to simplify the geometry and analysis. The cross-sectional area is defined by \(A=d^2\), where \(d\) is the side length. A dimension of \(d=1\) in was selected, resulting in a cross-sectional area of \(A=1\text{ in}^2\). This provides a simple and consistent geometry for the analysis.
 
 - Force was chosen to be 500lbf to generate the smallesr leght, and therefore make shaft leght smaller.
 - Based on the range of the Young’s Modulus (from (8.5 - 11.5) x 106 psi) the aluminium alloy chosen was 6061 Alloy on solidworks, which Young's Modulus (E) in SolidWorks is 10007603.9 psi.
