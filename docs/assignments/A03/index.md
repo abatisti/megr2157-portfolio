@@ -6,10 +6,11 @@ This assignment focuses on designing for stiffness by analyzing a bar under an a
 **Design Choices**
 
 
-- A square cross-sectional shape was selected to simplify the geometry and analysis. The cross-sectional area is defined by \(A=d^2\), where \(d\) is the side length. A dimension of \(d=1\) in was selected, resulting in a cross-sectional area of \(A=1\text{ in}^2\). This provides a simple and consistent geometry for the analysis.
+&nbsp;&nbsp;&nbsp;&nbsp;  - A square cross-sectional shape was selected to simplify the geometry and analysis. The cross-sectional area is defined by A=d^2, where d is the side length. And dimension of d=1 in was selected, resulting in a cross-sectional area of A = 1 in^2. This provides a simple and consistent geometry for the analysis.  
 
-- Force was chosen to be 500lbf to generate the smallesr leght, and therefore make shaft leght smaller.
-- Based on the range of the Young’s Modulus (from (8.5 - 11.5) x 106 psi) the aluminium alloy chosen was 6061 Alloy on solidworks, which Young's Modulus (E) in SolidWorks is 10007603.9 psi.
+&nbsp;&nbsp;&nbsp;&nbsp;  - An axial force of 500 lbf was selected to produce the shortest required shaft length, reducing the overall shaft length for the design.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  - Based on the specified Young’s modulus range of (8.5-11.5) *10^6 psi, 6061 aluminum alloy was selected from the available materials in SolidWorks. The Young’s modulus of the selected material in SolidWorks is \(E=10,007,603.9\) psi.
 
 
 **Solidworks Model**
