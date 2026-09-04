@@ -12,13 +12,16 @@ This assignment focuses on designing for stiffness by analyzing a bar under an a
 
 &nbsp;&nbsp;&nbsp;&nbsp;  - Based on the specified Young’s modulus range of (8.5-11.5) *10^6 psi, 6061 aluminum alloy was selected from the available materials in SolidWorks. The Young’s modulus of the selected material in SolidWorks is \(E=10,007,603.9\) psi.
 
-
+<br><br>
 **Solidworks Model**
 
+&nbsp;&nbsp;&nbsp;&nbsp;  The design was developed in SolidWorks by assigning the selected parameters (Young’s modulus, maximum allowable deflection, applied load, and cross-sectional dimensions) to parametric equations to determine the required bar length.
+<img width="793" height="262" alt="Screenshot 2026-09-03 130518" src="https://github.com/user-attachments/assets/7b572bd6-3d66-4ff1-a8bb-342d2d4b7efd" />
 
+<br><br>
 **Results**
 
-
+After modeling the design and running a study using the selected applied force, the following results were obtained:
 <img width="1497" height="718" alt="Screenshot 2026-09-03 131210" src="https://github.com/user-attachments/assets/563777c8-4919-4977-a090-aca64e3d9756" />
 
 <img width="1463" height="762" alt="Screenshot 2026-09-03 131226" src="https://github.com/user-attachments/assets/3584f0ec-2b77-4ecb-97af-9fb6444cb02e" />
