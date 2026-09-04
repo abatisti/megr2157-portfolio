@@ -43,4 +43,30 @@ The minimum factor of safety throughout the part was 14, further indicating that
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The calculated and simulated deflections are essentially the same, and the small difference can be attributed to numerical precision and the finite element approximation used in the simulation. The FEA result can be trusted more because it accounts for the modeled geometry and loading conditions directly.
 
-This assingment took less than 1 hours so far, no mistakes were done so far.
+
+&nbsp;&nbsp;&nbsp;&nbsp;  All this section above was done in 2 hours, and no mistakes were made.
+
+<br><br>
+**Modify Design Parameters**
+
+
+The new design parameters are:   
+
+- The cross-sectional dimension was increased to d=5 in, resulting in an area of A=25 in^2.
+- The applied load was increased to F=60,000 lbf.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; With these new values, the required bar length is expected to decrease because the increase in load is proportionally greater than the increase in cross-sectional area, resulting in a shorter length for the same target deflection.
+
+
+- Results
+
+  
+&nbsp;&nbsp;&nbsp;&nbsp;  As expected, the resulting length was smaller than the previously calculated length. The deflection remained very close to the target value, while the overall stress increased and the factor of safety decreased considerably.
+
+
+<img width="1213" height="548" alt="Screenshot 2026-09-04 182510" src="https://github.com/user-attachments/assets/109471d0-df58-4fbf-b782-367d2d90096c" />
+
+<img width="1215" height="598" alt="Screenshot 2026-09-04 182455" src="https://github.com/user-attachments/assets/2210a388-e9fb-46c6-8cf6-0c19d0c88c4b" />
+
+<img width="1157" height="573" alt="image" src="https://github.com/user-attachments/assets/519179cd-6d01-44f7-86a1-20645681b5b8" />
