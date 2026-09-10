@@ -4,6 +4,7 @@
 
 **Given**
   - Motor used: Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox
+  - Weight of the motor is neglectable
   - Motor sketch
   - Mount Sketch
   - P = 300 N
