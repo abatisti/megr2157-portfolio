@@ -9,8 +9,8 @@
   - Mount Sketch
   - P = 300 N
   - Maximum deflection (for both features): 0.30 mm
-  - Material:  ABS, PETG,  or PLA
   - Safety factor: 3
+  -  Material:  ABS, PETG,  or PLA (PLA was chosen because for this design we are only optimizing the dimetion of the design, and since it has the highest yield strength and youngs module, it will be the material that best does it)
 
 
 **Find:**  
