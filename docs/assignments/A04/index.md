@@ -10,7 +10,7 @@
   - P = 300 N
   - Maximum deflection (for both features): 0.30 mm
   - Safety factor: 3
-  -  Material:  ABS, PETG,  or PLA (PLA was chosen because for this design we are only optimizing the dimetion of the design, and since it has the highest yield strength and youngs module, it will be the material that best does it) https://www.specialchem.com/plastics/pf-polylactic-acid-pla
+  -  Material:  ABS, PETG,  or PLA (ABS was chosen because the links for PETG and PLA given are not working, and while i tried to find another credible source for PLA properties, it became cofusing due to the amount of websites and their credibility.)
 
 
 **Find:**  
