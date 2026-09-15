@@ -120,5 +120,18 @@
 
 <img width="477" height="749" alt="image" src="https://github.com/user-attachments/assets/27ae5d09-a087-4bcf-a4b6-201e4c351374" />
 
-Link: https://1drv.ms/f/c/18c7b03a5d0433a3/IgBjd0xmhxrTTYfley7Ml_FcAdlJ-CV7xVnOnLo1BD_GN5M?e=kldHqW
+(all dimentions shown in drawing)
+
+Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAAnq7CTcJUT4CTwKBTgxT1AanxLZZpXub3yMK9W0joliE?e=pPreDS
+
+
+<br><br>
+**Drawing**
+
+
+<img width="1226" height="791" alt="image" src="https://github.com/user-attachments/assets/20e45957-4d8b-4809-9d33-fe113bb9311c" />
+
+
+Link: [Motor Mount- drawing.PDF](https://github.com/user-attachments/files/32258853/Motor.Mount-.drawing.PDF)
+
 
