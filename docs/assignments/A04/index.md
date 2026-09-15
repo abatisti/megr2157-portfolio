@@ -75,3 +75,42 @@
 
 
 
+<br><br>
+## Feature 2:
+
+
+**Assumptions**
+  
+  - Rigid wall A can support bolts.
+
+
+**FBD**  
+
+<img width="1318" height="441" alt="1282" src="https://github.com/user-attachments/assets/6cd456de-70c5-42e7-bb56-c819383ca481" />
+
+
+<br><br>
+**Knons and Unknows**
+
+  
+<img width="1321" height="1376" alt="1283" src="https://github.com/user-attachments/assets/a5b8601f-2269-4faf-97b1-254128aa71f4" />
+
+
+<br><br>
+**Solve for Strength**  
+
+<img width="1230" height="1000" alt="1284" src="https://github.com/user-attachments/assets/9d42d4c7-b250-42a1-a8cb-c3b2695e655f" />
+
+
+<br><br>
+**Solve for Deflection**
+
+
+<img width="1231" height="1125" alt="1285" src="https://github.com/user-attachments/assets/c043b526-383c-4986-803d-925e54b9f543" />
+
+
+<br><br>
+**Compare obtaned results**
+
+
+<img width="1224" height="379" alt="1286" src="https://github.com/user-attachments/assets/7919919f-5f2a-4426-a00c-9bb7f23e19d6" />
