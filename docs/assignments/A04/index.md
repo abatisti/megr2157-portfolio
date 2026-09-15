@@ -141,3 +141,8 @@ Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAAnq7CTcJUT4CTwKBTgxT1AanxLZZpXub3y
 Link: [Motor Mount- drawing.PDF](https://github.com/user-attachments/files/32258853/Motor.Mount-.drawing.PDF)
 
 
+<br><br>
+## Final notes:  
+
+- The design does not fully represent what it would look like in real life because several assumptions were made during the analysis that do not fully reflect real-world conditions.
+- In total, it took me approximately 8 hours to complete this assignment.
