@@ -115,7 +115,13 @@
 
 <img width="1224" height="379" alt="1286" src="https://github.com/user-attachments/assets/7919919f-5f2a-4426-a00c-9bb7f23e19d6" />
 
+<br><br>
+## Final Sketch  
 
+
+<img width="1383" height="1034" alt="1287" src="https://github.com/user-attachments/assets/6906d0e3-7d21-4ef3-b0e1-2bad753eed90" />
+
+<br><br>
 ## Final design on SolidWorks
 
 <img width="477" height="749" alt="image" src="https://github.com/user-attachments/assets/27ae5d09-a087-4bcf-a4b6-201e4c351374" />
