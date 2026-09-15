@@ -114,3 +114,11 @@
 
 
 <img width="1224" height="379" alt="1286" src="https://github.com/user-attachments/assets/7919919f-5f2a-4426-a00c-9bb7f23e19d6" />
+
+
+## Final design on SolidWorks
+
+<img width="477" height="749" alt="image" src="https://github.com/user-attachments/assets/27ae5d09-a087-4bcf-a4b6-201e4c351374" />
+
+Link: https://1drv.ms/f/c/18c7b03a5d0433a3/IgBjd0xmhxrTTYfley7Ml_FcAdlJ-CV7xVnOnLo1BD_GN5M?e=kldHqW
+
