@@ -26,11 +26,12 @@
 
 **Objective:**  
 
-Design a motor mount by first analyzing it for yield strength and then for maximum deflection.
+&nbsp;&nbsp;&nbsp;&nbsp;  Design a motor mount by first analyzing it for yield strength and then for maximum deflection.
 
 
-**Initial sketch**
-Before analyzing any specific features, an initial design was created based on the desired geometry and the dimensions of the motor.
+**Initial sketch**  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Before analyzing any specific features, an initial design was created based on the desired geometry and the dimensions of the motor.
 
 
 
