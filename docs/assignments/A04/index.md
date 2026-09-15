@@ -3,25 +3,36 @@
 ## "First look"
 
 **Given**
+
+  - Mount Sketch:
+    
+    <img width="123" height="99" alt="download" src="https://github.com/user-attachments/assets/8856c894-e4be-4280-9728-8204326a16f5" />
+
+
+    
+  - Motor sketch:
+    
+    <img width="1625" height="505" alt="unnamed" src="https://github.com/user-attachments/assets/8be8fe76-7bb6-423a-8cd1-7b4fd8b6859b" />
+
+
+
   - Motor used: Brushed 24V DC Gear Motor 3.6Kg.cm/46RPM w/ 99.5:1 Planetary Gearbox
   - Weight of the motor is neglectable
-  - Motor sketch
-  - Mount Sketch
   - P = 300 N
   - Maximum deflection (for both features): 0.30 mm
   - Safety factor: 3
   -  Material:  ABS, PETG,  or PLA (ABS was chosen because the links for PETG and PLA given are not working, and while i tried to find another credible source for PLA properties, it became cofusing due to the amount of websites and their credibility.)
 
 
-**Find:**  
+**Objective:**  
 
-- design, by first design for yield strength and then design for a maximum deflection
+Design a motor mount by first analyzing it for yield strength and then for maximum deflection.
 
-To do:
-draw fbd, Research the design of different motor mounts and place the links in an appendix on your page.****
 
 **Initial sketch**
-Before analyzing any specific features a first desing was made based on wanted geometry and the motor
+Before analyzing any specific features, an initial design was created based on the desired geometry and the dimensions of the motor.
+
+
 
 ## Feature 1:
 
@@ -30,11 +41,6 @@ Before analyzing any specific features a first desing was made based on wanted g
   
   - Deflection of the feature attached to the wall is zero and the derivative with respect to x is also zero (aka treat as a cantilever beam).
   - Safety factor accounts for the holes for the motor shaft and the screws in your calculation.
-
-
-**Find**  
-
-  - cross sectional area geometry using the beam bending equations from the lecture.
 
 
 **Knons and Unknows**
