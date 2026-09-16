@@ -46,7 +46,11 @@
   - Deflection of the feature attached to the wall is zero and the derivative with respect to x is also zero (aka treat as a cantilever beam).
   - Safety factor accounts for the holes for the motor shaft and the screws in your calculation.
 
-**FBD**
+
+**FBD**  
+
+<img width="536" height="406" alt="1292" src="https://github.com/user-attachments/assets/bb5301ea-bc9f-4226-aa1e-b28f8626664a" />
+
 
 <br><br>
 **Knons and Unknows**
@@ -144,5 +148,5 @@ Link: [Motor Mount- drawing.PDF](https://github.com/user-attachments/files/32258
 <br><br>
 ## Final notes:  
 
-- The design does not fully represent what it would look like in real life because several assumptions were made during the analysis that do not fully reflect real-world conditions.
+- The design does not fully represent how the motor mount would behave or appear in a real-world application because several simplifying assumptions were made during the analysis. These assumptions were necessary to evaluate the design, but they do not account for all of the conditions and constraints that would be present in an actual application.
 - In total, it took me approximately 8 hours to complete this assignment.
