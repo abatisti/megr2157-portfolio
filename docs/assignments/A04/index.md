@@ -122,8 +122,11 @@
 <br><br>
 ## Final Sketch  
 
+&nbsp;&nbsp;&nbsp;&nbsp;  A final sketch was created using the dimensions calculated during the analysis.
 
-<img width="1383" height="1034" alt="1287" src="https://github.com/user-attachments/assets/6906d0e3-7d21-4ef3-b0e1-2bad753eed90" />
+
+<img width="1190" height="823" alt="1293" src="https://github.com/user-attachments/assets/286facae-49e8-4e36-bb52-efe7a0cde11e" />
+
 
 <br><br>
 ## Final design on SolidWorks
