@@ -152,4 +152,5 @@ Link: [Motor Mount- drawing.PDF](https://github.com/user-attachments/files/32258
 ## Final notes:  
 
 - The design does not fully represent how the motor mount would behave or appear in a real-world application because several simplifying assumptions were made during the analysis. These assumptions were necessary to evaluate the design, but they do not account for all of the conditions and constraints that would be present in an actual application.
+- **Lessons learned**:  This assignment taught me how to use yield strength and maximum deflection to evaluate a motor mount design. I learned that a design can be strong enough to prevent yielding but still require modifications due to excessive deflection. I also learned that engineering assumptions can affect how closely the analysis represents real-world conditions.
 - In total, it took me approximately 8 hours to complete this assignment.
