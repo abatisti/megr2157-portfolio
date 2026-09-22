@@ -2,6 +2,10 @@
 
 ## Objective
 
+The main objective of this assignment is to demonstrate the importance of considering multiple factors when developing an engineering design. The design must account for factors such as stress, stiffness, material properties, loading conditions, and design assumptions to ensure that the final dimensions are accurate and the component performs as intended.
+
+## Main assumption:
+
 
 ## Stress analysis:  
 
