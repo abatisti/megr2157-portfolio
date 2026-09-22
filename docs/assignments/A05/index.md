@@ -65,8 +65,23 @@
 ## Final Design: 
 
 
-## Final notes:  
+- Stress design:
 
-- Cannot analyse one without the other cause designt would fail
-- 
+  <img width="1176" height="718" alt="1309" src="https://github.com/user-attachments/assets/72c8546d-9fb6-47e8-8c54-3ba707c9f323" />
+
+
+<br><br>  
+
+- Stiffness design:
+
+  <img width="1182" height="719" alt="1310" src="https://github.com/user-attachments/assets/c8091cde-4024-4f58-b03a-e98807f8f5cb" />
+
+
+## Lessons lerned:  
+
+- For Part D, stress governed the final width dimension. The stress analysis required a minimum width of 0.022 in, while the stiffness analysis required only 0.00827 in. Therefore, using the stiffness-based dimension would not allow the part to withstand the applied load while maintaining the required factor of safety of 4. The final design therefore used the larger 0.022 in width required by the stress analysis.
+  
+- The diameter calculated for Part A was carried over as the width dimension for Part B. Since this value was used in the calculations for the next feature, an error in the Part A diameter would have affected the dimensions and results for Part B. The value was checked before being carried forward, preventing an error from propagating into the later design.
+  
+- A main assumption in this design was that shear stresses were negligible. If shear stresses were significant, they would need to be included in the analysis and could require larger dimensions to maintain the required factor of safety. Therefore, neglecting shear may result in dimensions that are insufficient if the actual loading produces significant shear stress.
 
