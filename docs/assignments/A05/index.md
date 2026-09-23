@@ -90,3 +90,22 @@
   
 - A main assumption in this design was that shear stresses were negligible. If shear stresses were significant, they would need to be included in the analysis and could require larger dimensions to maintain the required factor of safety. Therefore, neglecting shear may result in dimensions that are insufficient if the actual loading produces significant shear stress.
 
+
+## Bracket desing:
+
+**Stress measurements**
+
+<img width="1205" height="1437" alt="1315" src="https://github.com/user-attachments/assets/19e9a720-bcb5-444d-a7f1-30c151d978b1" />
+
+
+<img width="1179" height="486" alt="1316" src="https://github.com/user-attachments/assets/58a7de02-aee2-4fdc-959b-d42cd924e82f" />
+
+
+**Stiffness measurements**
+
+<img width="1194" height="1417" alt="1317" src="https://github.com/user-attachments/assets/93c06a24-0537-45b1-8408-f92e46023374" />
+
+
+<img width="1188" height="508" alt="1318" src="https://github.com/user-attachments/assets/92ac07c3-ee37-44f5-976b-fb7ff471aa37" />
+
+
