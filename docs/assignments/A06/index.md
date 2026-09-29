@@ -64,7 +64,17 @@ Final bracket drawing.
 &nbsp;&nbsp;&nbsp;&nbsp;  **Link:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQC8VDxm6bfEQ4lSpO1y-WQoAcC_ceAxPcM8UptfRWIiKdo?e=aJwH4y
 
 
+## Reflection
+
+&nbsp;&nbsp;&nbsp;&nbsp;  I spent approximately 5 hours completing this assignment. I learned that considering all relevant design requirements is essential when creating a part, since satisfying only one requirement can cause the design to fail under another condition. This assignment reinforced concepts from previous Sophomore Design assignments, particularly the importance of considering strength, stiffness, dimensions, tolerances, and manufacturability together rather than evaluating each factor independently.  
 
 
-## Communicate
+&nbsp;&nbsp;&nbsp;&nbsp;  For Part D, the width was determined using the strength requirement: wd = F × SF / (td × σᵧ)  
+&nbsp;&nbsp;&nbsp;&nbsp;  This equation was entered directly into SolidWorks as a global equation, with the variables linked to the corresponding model dimensions and material properties. Therefore, the width was controlled by the equation rather than by manually entering a calculated value.  
+&nbsp;&nbsp;&nbsp;&nbsp;If one of the parameters in the equation were changed, such as the applied force, safety factor, thickness, or yield strength, SolidWorks would automatically recalculate the required width. Since the width is parametrically linked to the model, the bracket geometry would update automatically to reflect the new dimension. Any dependent features would also update as long as their relationships were properly defined.
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  A tighter tolerance was applied to the width of Part D because this dimension is directly related to the strength requirement of the bracket. A larger variation in this relatively small dimension could move the design closer to its failure condition. A tighter tolerance was also applied to the radius of Part A, since this feature needs to accommodate the required fitting and therefore has a functional role.  
+&nbsp;&nbsp;&nbsp;&nbsp;  In contrast, the overall thickness of the bracket was assigned a looser tolerance because it is a larger dimension and small variations within the specified tolerance have less effect on the overall design requirements.  
+&nbsp;&nbsp;&nbsp;&nbsp;  Applying the tightest tolerance to every dimension would unnecessarily increase manufacturing cost and difficulty. Non-critical dimensions do not require the same level of precision, so unnecessarily tight tolerances would require more precise manufacturing processes without providing a corresponding functional benefit.
 
