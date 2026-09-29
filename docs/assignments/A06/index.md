@@ -89,9 +89,27 @@ Some dimensions depend on the geometry of other parts of the bracket. Since I di
 
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall length of the part. However, increasing the length also changed the minimum thickness determined by the deflection analysis. As a result, the thickness requirement became the new limiting dimension, requiring further changes to the overall design dimensions.
+&nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall height of the part. Because the height had to be changed, the calculations had to be reevaluated to determine whether the stress-based thickness would still be the minimum required thickness. After reevaluation, the stress-based thickness remained the limiting dimension, so no further changes to the part were necessary.
 
 
 
 <img width="533" height="615" alt="Screenshot 2026-09-29 183253" src="https://github.com/user-attachments/assets/6990266f-b2c9-4f6c-b346-9d3ea3635caa" />  
-Design with overlapping fit holes.
+Design with overlapping fit holes.  
+
+
+**New Parametric dimentions:**
+
+<img width="972" height="267" alt="image" src="https://github.com/user-attachments/assets/1b420760-5c85-4863-b857-c7646e2dc4dd" />  
+It is possible to see the change in height and the calculations of both analized thicknesses.
+
+
+<img width="400" height="622" alt="image" src="https://github.com/user-attachments/assets/371a8faf-788e-4ece-85bb-2803100c180e" />
+
+
+**Finished Part**
+
+<img width="347" height="698" alt="image" src="https://github.com/user-attachments/assets/35d63237-af3e-415d-a7c0-5f84d72aa64a" />
+
+
+**Part Drawing**
+
