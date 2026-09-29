@@ -4,7 +4,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;  To use the calculated dimensions from Assignment 5 to create the bracket and its engineering drawing in SolidWorks.
 
-## Analyze
+## Dimensions and design
 
 &nbsp;&nbsp;&nbsp;&nbsp;  The first step is to analyze each calculated dimension from Assignment 5 and identify the limiting dimension based on either stress or stiffness. This will be done by comparing the dimensions calculated for both requirements and selecting the larger of the two, since it governs the final design.
 
@@ -42,11 +42,12 @@
 - t = 4 in
 
 <br><br>
-<img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/ee29911e-881a-431a-a1a9-4940d12da6c9" />  
+<img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/42720629-f950-4f59-b612-62e6c6e0cb4a" />  
 All parametric dimensions entered into SolidWorks’ Global Equations.
 
+<br>
+<img width="435" height="738" alt="image" src="https://github.com/user-attachments/assets/6542ab02-beab-49b3-b411-78c3fe860936" />    
 
-<img width="435" height="738" alt="image" src="https://github.com/user-attachments/assets/6542ab02-beab-49b3-b411-78c3fe860936" />  
 Final solidwoks design.
 
 &nbsp;&nbsp;&nbsp;&nbsp;  **Link:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQB1lsb-INhvS47k43YEh3EnAeaWyrtCTcTt6Z9pjuLIldA?e=kmMryV
