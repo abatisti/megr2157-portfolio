@@ -114,3 +114,10 @@ Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAB66jzoALEQqG3_Xzn2Y5UAa3nYRHujqJby
 
 **Part Drawing**
 
+
+
+<img width="1635" height="850" alt="Bracket link" src="https://github.com/user-attachments/assets/7b52ca39-994e-483f-ab5b-8a07f3a2c1fd" />
+
+
+Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQBfGJ2eEbLiQKLuuLkcP8K2ATeWu68Epd3c1c5h_SFBPaE?e=gc0tEF
+
