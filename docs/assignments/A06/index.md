@@ -2,39 +2,41 @@
 
 ## Objective
 
-
+&nbsp;&nbsp;&nbsp;&nbsp;  To use the calculated dimensions from Assignment 5 to create the bracket and its engineering drawing in SolidWorks.
 
 ## Analyze
 
-first step is to analyze each dimention found and indentify which is the limiting one, ether by stress or stiffness. that wil be done by comparing both and using the biggers one of the both.
+&nbsp;&nbsp;&nbsp;&nbsp;  The first step is to analyze each calculated dimension from Assignment 5 and identify the limiting dimension based on either stress or stiffness. This will be done by comparing the dimensions calculated for both requirements and selecting the larger of the two, since it governs the final design.
 
-In order to find all calculationss and dimentions found refer to "A05"
-Therefore:
+&nbsp;&nbsp;&nbsp;&nbsp;  All calculations and dimensions used for this analysis can be found in “A05.”
 
-A:  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Therefore:
+
+**A:**  
 - Lenght = 4 in
 - r = 1.158 in(from stiffness)
 
 
-B  
+**B:** 
 - h = 4 inches
 - w = 2r (from part A)
 - t = 0.2303 in (from stress)
 
 
-C  
+**C:** 
 - h = 0.5143 in (from stress)
 - w = 2.4964 in
 - t = 4 in
 
 
-D  
+**D:** 
 - h = 1.499 in
 - w = 0.022 (from stress)
 - t = 4 in
 
 
-E  
+**E:** 
 - h = 0.5143 in (from stress)
 - w = 0.99902 in
 - t = 4 in
