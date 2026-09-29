@@ -110,6 +110,7 @@ It is possible to see the change in height and the calculations of both analized
 
 <img width="347" height="698" alt="image" src="https://github.com/user-attachments/assets/35d63237-af3e-415d-a7c0-5f84d72aa64a" />
 
+Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAB66jzoALEQqG3_Xzn2Y5UAa3nYRHujqJbyxtlGTLglWI?e=p5nylx
 
 **Part Drawing**
 
