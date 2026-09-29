@@ -38,6 +38,10 @@ E
 - w = 0.99902 in
 - t = 4 in
 
+
+<img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/ee29911e-881a-431a-a1a9-4940d12da6c9" />
+
+
 ## Decide
 
 
