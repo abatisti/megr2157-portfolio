@@ -82,6 +82,13 @@ Final bracket drawing.
 
 ## Link design
 
+**Parametric dimentions:**
+
+<img width="946" height="315" alt="image" src="https://github.com/user-attachments/assets/a7a06d44-26a0-4df6-8472-a37d801dfa0c" />  
+Some dimensions depend on the geometry of other parts of the bracket. Since I did not know how to reference those dimensions directly from another feature, I entered them manually.
+
+
+
 &nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall length of the part. However, increasing the length also changed the minimum thickness determined by the deflection analysis. As a result, the thickness requirement became the new limiting dimension, requiring further changes to the overall design dimensions.
 
 
