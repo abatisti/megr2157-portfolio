@@ -42,6 +42,9 @@ E
 <img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/ee29911e-881a-431a-a1a9-4940d12da6c9" />
 
 
+<img width="435" height="738" alt="image" src="https://github.com/user-attachments/assets/6542ab02-beab-49b3-b411-78c3fe860936" />
+
+
 ## Decide
 
 
