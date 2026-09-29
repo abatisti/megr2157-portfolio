@@ -41,14 +41,28 @@
 - w = 0.99902 in
 - t = 4 in
 
-
-<img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/ee29911e-881a-431a-a1a9-4940d12da6c9" />
-
-
-<img width="435" height="738" alt="image" src="https://github.com/user-attachments/assets/6542ab02-beab-49b3-b411-78c3fe860936" />
+<br><br>
+<img width="1000" height="592" alt="image" src="https://github.com/user-attachments/assets/ee29911e-881a-431a-a1a9-4940d12da6c9" />  
+All parametric dimensions entered into SolidWorks’ Global Equations.
 
 
-## Decide
+<img width="435" height="738" alt="image" src="https://github.com/user-attachments/assets/6542ab02-beab-49b3-b411-78c3fe860936" />  
+Final solidwoks design.
+
+&nbsp;&nbsp;&nbsp;&nbsp;  **Link:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQB1lsb-INhvS47k43YEh3EnAeaWyrtCTcTt6Z9pjuLIldA?e=kmMryV
+
+
+## Drawing
+
+&nbsp;&nbsp;&nbsp;&nbsp; The drawing was created directly from the part above. First, a larger dimetric view was added without dimensions to make the part more visible and easier to understand for manufacturing. The front, top, and side views were then added. The dimensions were initially generated automatically by SolidWorks and then edited to satisfy all drawing requirements.
+
+
+<img width="1634" height="849" alt="Bracket design final" src="https://github.com/user-attachments/assets/63d0ca70-0ee0-42fb-a706-25d8414ae623" />  
+Final bracket drawing.
+
+&nbsp;&nbsp;&nbsp;&nbsp;  **Link:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQC8VDxm6bfEQ4lSpO1y-WQoAcC_ceAxPcM8UptfRWIiKdo?e=aJwH4y
+
+
 
 
 ## Communicate
