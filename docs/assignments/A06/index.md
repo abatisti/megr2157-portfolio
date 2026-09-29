@@ -92,5 +92,6 @@ Some dimensions depend on the geometry of other parts of the bracket. Since I di
 &nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall length of the part. However, increasing the length also changed the minimum thickness determined by the deflection analysis. As a result, the thickness requirement became the new limiting dimension, requiring further changes to the overall design dimensions.
 
 
+
 <img width="533" height="615" alt="Screenshot 2026-09-29 183253" src="https://github.com/user-attachments/assets/6990266f-b2c9-4f6c-b346-9d3ea3635caa" />  
 Design with overlapping fit holes.
