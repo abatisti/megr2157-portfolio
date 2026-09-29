@@ -42,7 +42,7 @@
 - t = 4 in
 
 <br><br>
-<img width="975" height="510" alt="image" src="https://github.com/user-attachments/assets/42720629-f950-4f59-b612-62e6c6e0cb4a" />  
+<img width="970" height="478" alt="image" src="https://github.com/user-attachments/assets/d42786d5-aacf-4332-9539-87d54208d53e" />  
 All parametric dimensions entered into SolidWorks’ Global Equations.
 
 <br>
