@@ -93,6 +93,9 @@
 
 ## Bracket desing:
 
+**Bracket connection hole:**
+
+
 **Stress measurements**
 
 <img width="1205" height="1437" alt="1315" src="https://github.com/user-attachments/assets/19e9a720-bcb5-444d-a7f1-30c151d978b1" />
@@ -109,3 +112,8 @@
 <img width="1188" height="508" alt="1318" src="https://github.com/user-attachments/assets/92ac07c3-ee37-44f5-976b-fb7ff471aa37" />
 
 
+
+**1-inch hole**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Needs light assembly preassure, therefore a locational transition fit was chosen (LT2).  
+From the table a clearance of 0.0016 inch. with a hole tolerance of +0.0012 and -0.000.
