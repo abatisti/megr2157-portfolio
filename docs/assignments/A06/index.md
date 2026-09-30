@@ -113,9 +113,12 @@ It is possible to see the new clearance, the change in height, and the calculati
 
 **Finished Part**
 
-<img width="347" height="698" alt="image" src="https://github.com/user-attachments/assets/35d63237-af3e-415d-a7c0-5f84d72aa64a" />
+
+<img width="320" height="716" alt="image" src="https://github.com/user-attachments/assets/cbd19be9-3bc1-42db-bf07-73b51cde1365" />
 
 Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAB66jzoALEQqG3_Xzn2Y5UAa3nYRHujqJbyxtlGTLglWI?e=p5nylx
+
+
 
 **Part Drawing**
 
