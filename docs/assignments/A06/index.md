@@ -92,6 +92,10 @@ Some dimensions depend on the geometry of other parts of the bracket. Since I di
 &nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall height of the part. Because the height had to be changed, the calculations had to be reevaluated to determine whether the stress-based thickness would still be the minimum required thickness. After reevaluation, the stress-based thickness remained the limiting dimension, so no further changes to the part were necessary.
 
 
+&nbsp;&nbsp;&nbsp;&nbsp; **Second issue found:** i have realized that when assingment 1 was done I commint a mistake on chosingthe correct clerance on the running fit that connect sthe link to the bracket. To fix such mistake a new clearance will be added. Since this connection is a running fit the class RC8 is going to be chosen once it is intended to allocate wide comercial tolernces.  
+&nbsp;&nbsp;&nbsp;&nbsp; Therefore according to table on page 655 of the 32nd edition of the machinary handbook, the clearance is 0.006 inch, with +0.0045, -0.00 tolerance for the hole.
+
+
 
 <img width="533" height="615" alt="Screenshot 2026-09-29 183253" src="https://github.com/user-attachments/assets/6990266f-b2c9-4f6c-b346-9d3ea3635caa" />  
 Design with overlapping fit holes.  
@@ -99,8 +103,9 @@ Design with overlapping fit holes.
 
 **New Parametric dimentions:**
 
-<img width="972" height="267" alt="image" src="https://github.com/user-attachments/assets/1b420760-5c85-4863-b857-c7646e2dc4dd" />  
-It is possible to see the change in height and the calculations of both analized thicknesses.
+
+<img width="975" height="376" alt="image" src="https://github.com/user-attachments/assets/69d644c8-36c6-4498-9ed4-7f48bb8f6e7d" />  
+It is possible to see the new clearance, the change in height, and the calculations of both analized thicknesses.
 
 
 <img width="400" height="622" alt="image" src="https://github.com/user-attachments/assets/371a8faf-788e-4ece-85bb-2803100c180e" />
