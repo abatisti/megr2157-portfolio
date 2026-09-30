@@ -66,7 +66,7 @@ Final bracket drawing.
 
 ## Reflection
 
-&nbsp;&nbsp;&nbsp;&nbsp;  I spent approximately 5 hours completing this assignment. I learned that considering all relevant design requirements is essential when creating a part, since satisfying only one requirement can cause the design to fail under another condition. This assignment reinforced concepts from previous Sophomore Design assignments, particularly the importance of considering strength, stiffness, dimensions, tolerances, and manufacturability together rather than evaluating each factor independently.  
+&nbsp;&nbsp;&nbsp;&nbsp;  I spent approximately 6 hours to fully complete this assignment. I learned that considering all relevant design requirements is essential when creating a part, since satisfying only one requirement can cause the design to fail under another condition. This assignment reinforced concepts from previous Sophomore Design assignments, particularly the importance of considering strength, stiffness, dimensions, tolerances, and manufacturability together rather than evaluating each factor independently.  
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  For Part D, the width was determined using the strength requirement: wd = F × SF / (td × σᵧ)  
@@ -92,8 +92,8 @@ Some dimensions depend on the geometry of other parts of the bracket. Since I di
 &nbsp;&nbsp;&nbsp;&nbsp; **First issue found:** When the dimensions were entered into SolidWorks, it revealed that the two fit holes overlapped, which would cause a design issue. This was corrected by increasing the overall height of the part. Because the height had to be changed, the calculations had to be reevaluated to determine whether the stress-based thickness would still be the minimum required thickness. After reevaluation, the stress-based thickness remained the limiting dimension, so no further changes to the part were necessary.
 
 
-&nbsp;&nbsp;&nbsp;&nbsp; **Second issue found:** i have realized that when assingment 1 was done I commint a mistake on chosingthe correct clerance on the running fit that connect sthe link to the bracket. To fix such mistake a new clearance will be added. Since this connection is a running fit the class RC8 is going to be chosen once it is intended to allocate wide comercial tolernces.  
-&nbsp;&nbsp;&nbsp;&nbsp; Therefore according to table on page 655 of the 32nd edition of the machinary handbook, the clearance is 0.006 inch, with +0.0045, -0.00 tolerance for the hole.
+&nbsp;&nbsp;&nbsp;&nbsp; **Second issue found:** I realized that a mistake was made in Assignment 1 when selecting the appropriate clearance for the running fit connecting the link to the bracket. To correct this, a new clearance will be applied. Since this connection is a running fit, the RC8 class will be selected because it is intended to accommodate relatively wide commercial tolerances.  
+&nbsp;&nbsp;&nbsp;&nbsp; According to the table on page 655 of the 32nd edition of the Machinery’s Handbook, the required clearance is 0.006 in, with a hole tolerance of +0.0045 / −0.000 in.
 
 
 
@@ -111,6 +111,7 @@ It is possible to see the new clearance, the change in height, and the calculati
 <img width="400" height="622" alt="image" src="https://github.com/user-attachments/assets/371a8faf-788e-4ece-85bb-2803100c180e" />
 
 
+
 **Finished Part**
 
 
@@ -119,13 +120,14 @@ It is possible to see the new clearance, the change in height, and the calculati
 Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQAB66jzoALEQqG3_Xzn2Y5UAa3nYRHujqJbyxtlGTLglWI?e=p5nylx
 
 
-
+<br><br>
 **Part Drawing**
 
 
 
-<img width="1635" height="850" alt="Bracket link" src="https://github.com/user-attachments/assets/7b52ca39-994e-483f-ab5b-8a07f3a2c1fd" />
+<img width="1634" height="849" alt="Bracket link" src="https://github.com/user-attachments/assets/b9d73f90-c303-4f07-9f19-b92c026e0bc9" />
 
 
-Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQBfGJ2eEbLiQKLuuLkcP8K2ATeWu68Epd3c1c5h_SFBPaE?e=gc0tEF
+
+Link: https://1drv.ms/u/c/18c7b03a5d0433a3/IQBfGJ2eEbLiQKLuuLkcP8K2ATeWu68Epd3c1c5h_SFBPaE?e=Xdqgz8
 
