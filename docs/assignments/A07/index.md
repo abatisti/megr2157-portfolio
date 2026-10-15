@@ -50,7 +50,7 @@ Mass: <img width="132" height="27" alt="image" src="https://github.com/user-atta
 
 Stress
 
-<img width="645" height="727" alt="image" src="https://github.com/user-attachments/assets/f27c2300-20d9-4710-bd6c-397175538981" />
+<img width="625" height="632" alt="image" src="https://github.com/user-attachments/assets/7de4d4a6-7859-4321-b93c-862934f00e4c" />
 
 
 Deflection
@@ -63,7 +63,11 @@ Factor of safety
 <img width="572" height="732" alt="image" src="https://github.com/user-attachments/assets/d88d2617-cafc-4ff1-a636-3d5c0a6e2368" />
 
 
-**Error estimation**
+**Error estimation between loop 1 and 2**
+
+Stress: 
+
+
 
 ## Decide
 
