@@ -29,7 +29,8 @@ Stress: The stress is also above the yield stress, and it further shows that my 
 
 Deflection: also beyond allowed value
 
-<img width="586" height="733" alt="image" src="https://github.com/user-attachments/assets/4bb5ff16-f9b3-46c8-9870-287364e3fde6" />
+<img width="575" height="731" alt="image" src="https://github.com/user-attachments/assets/3946b244-77fc-4616-8d05-9e84566b9864" />
+
 
 Safety factor: The SF is actually under the desired value, this shows that a calculation or setup mistake was made or is caused by the assumptions used to do such calculations
 
