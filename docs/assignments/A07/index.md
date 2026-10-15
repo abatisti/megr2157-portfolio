@@ -10,11 +10,14 @@
 
 <img width="435" height="738" alt="Screenshot 2026-09-29 113950" src="https://github.com/user-attachments/assets/55057750-82d4-4a51-90dd-eebf2003d54a" />
 
-**Fisrt inner loop**
+## First Outer Loop:
 
-&nbsp;&nbsp;&nbsp;&nbsp;  For the first inner loop the correct constrains and loading need to be created
+&nbsp;&nbsp;&nbsp;&nbsp;  For the first outer loop the correct constrains and loading were added to the previos geometry.
 
 <img width="437" height="727" alt="image" src="https://github.com/user-attachments/assets/785121fb-b048-4c2b-83a7-4202b5d4bc4a" />
+
+
+**Fisrt inner loop**
 
 First mesh was done at the set value on solidworks
 
@@ -59,6 +62,8 @@ Factor of safety
 
 <img width="572" height="732" alt="image" src="https://github.com/user-attachments/assets/d88d2617-cafc-4ff1-a636-3d5c0a6e2368" />
 
+
+**Error estimation**
 
 ## Decide
 
