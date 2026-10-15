@@ -22,19 +22,18 @@ First mesh was done at the set value on solidworks
 
 **Results**
 
-Safety factor: The SF is actually under the desired value, this shows that a calculation or setup mistake was made
-
-<img width="610" height="727" alt="image" src="https://github.com/user-attachments/assets/0deefc5f-8129-454b-b1e1-3704b18a0b3c" />
-
-
 Stress: The stress is also above the yield stress, and it further shows that my mistake is concentrated on part B or the bracket
 
-<img width="677" height="716" alt="image" src="https://github.com/user-attachments/assets/cf2207f4-0e34-4837-bfb7-1b9a558fd563" />
+<img width="660" height="735" alt="image" src="https://github.com/user-attachments/assets/35e568bf-83a8-4b90-8911-e8bc9464d743" />
 
 
-Deflection: also incorrect
+Deflection: also beyond allowed value
 
 <img width="586" height="733" alt="image" src="https://github.com/user-attachments/assets/4bb5ff16-f9b3-46c8-9870-287364e3fde6" />
+
+Safety factor: The SF is actually under the desired value, this shows that a calculation or setup mistake was made or is caused by the assumptions used to do such calculations
+
+<img width="595" height="726" alt="image" src="https://github.com/user-attachments/assets/53981683-9e35-485e-98d8-f77926f468c4" />
 
 
 Mass: <img width="132" height="27" alt="image" src="https://github.com/user-attachments/assets/0cdc3517-7cba-4d79-8c4f-95912ec85be5" />
@@ -43,7 +42,21 @@ Mass: <img width="132" height="27" alt="image" src="https://github.com/user-atta
 
 **Second inner loop - (finner mesh)**
 
-<img width="370" height="708" alt="image" src="https://github.com/user-attachments/assets/1211914e-33d8-43ea-89a4-9bbf863a7224" />
+<img width="432" height="727" alt="image" src="https://github.com/user-attachments/assets/3c018895-e2ee-45a5-9671-b1533fc0ab3f" />
+
+Stress
+
+<img width="645" height="727" alt="image" src="https://github.com/user-attachments/assets/f27c2300-20d9-4710-bd6c-397175538981" />
+
+
+Deflection
+
+<img width="555" height="738" alt="image" src="https://github.com/user-attachments/assets/e99eb2f5-011a-4985-b4b5-66c55853860f" />
+
+
+Factor of safety
+
+<img width="572" height="732" alt="image" src="https://github.com/user-attachments/assets/d88d2617-cafc-4ff1-a636-3d5c0a6e2368" />
 
 
 ## Decide
