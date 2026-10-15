@@ -41,7 +41,10 @@ Mass: <img width="132" height="27" alt="image" src="https://github.com/user-atta
 
 
 
-**Second inner loop**
+**Second inner loop - (finner mesh)**
+
+<img width="370" height="708" alt="image" src="https://github.com/user-attachments/assets/1211914e-33d8-43ea-89a4-9bbf863a7224" />
+
 
 ## Decide
 
