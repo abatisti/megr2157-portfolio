@@ -1,9 +1,12 @@
-# A7 – [Topic]
+# A7 – FEA on Bracket
+
 
 ## Objective
 
 
-## Analyze
+## Initial design
+
+
 
 
 ## Decide
