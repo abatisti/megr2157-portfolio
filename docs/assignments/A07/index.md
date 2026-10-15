@@ -27,7 +27,7 @@ First mesh was done at the set value on solidworks
 
 Stress: The stress is also above the yield stress, and it further shows that my mistake is concentrated on part B or the bracket
 
-<img width="660" height="735" alt="image" src="https://github.com/user-attachments/assets/35e568bf-83a8-4b90-8911-e8bc9464d743" />
+<img width="577" height="627" alt="image" src="https://github.com/user-attachments/assets/d5dce188-c16d-4017-a5bf-5b1d28b51e09" />
 
 
 Deflection: also beyond allowed value
