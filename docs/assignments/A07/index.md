@@ -65,9 +65,13 @@ Factor of safety
 
 **Error estimation between loop 1 and 2**
 
-Stress: 
+Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
 
+Stress: 6.80%
+Deflection: 0.707%
+FOS: 0.001%
 
+Error percentage < 7%: Model validated!
 
 ## Decide
 
