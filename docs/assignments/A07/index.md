@@ -89,8 +89,29 @@ Now it was time to adjust the overall geometry of the bracket. for this first al
 
 ## Fisrt inner loop
 
+Stress: The maximum stress now falls under the yield stress and the factor of safety.
+
+<img width="605" height="707" alt="image" src="https://github.com/user-attachments/assets/da84bf1c-5008-4f86-b79c-5c5216e5707d" />
 
 
+
+Deflection: Deflection is also now under the maximum
+
+<img width="577" height="717" alt="image" src="https://github.com/user-attachments/assets/c9390886-504c-4291-b0d4-198f5e298d2d" />
+
+
+Factor of safety: The design now also follows the factor of safety requirements
+
+<img width="575" height="695" alt="image" src="https://github.com/user-attachments/assets/c2dcc216-a31a-4d16-b1d2-9552cf7a62ce" />
+
+
+Weight: Besides all requirements being met the weight was reduced from the first design
+
+<img width="282" height="162" alt="image" src="https://github.com/user-attachments/assets/bca06337-408a-4d5f-a773-ed1b7dd0227c" />
+
+
+
+##  Second inner loop
 
 
 ## Communicate
