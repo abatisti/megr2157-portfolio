@@ -73,7 +73,24 @@ FOS: 0.001%
 
 Error percentage < 7%: Model validated!
 
-## Decide
+## Second outer loop
+
+Now it was time to adjust the overall geometry of the bracket. for this first alteration the main goal was to make bracket withing all requirements for its strength, stiffness and factor of safety. Following alterations were done:  
+
+
+- Overall thickness of bracket decreased from t= 4 to t = 2 inches.
+- Vertical lenght of part B decreased from 4 inches to 2 inches
+- Width of part D increased from 0.022 inches to 0.1 inches
+- Fillets were added
+
+  <img width="417" height="702" alt="image" src="https://github.com/user-attachments/assets/c5542d74-2dc7-4656-a2b2-deb40bd58455" />
+
+
+
+## Fisrt inner loop
+
+
+
 
 
 ## Communicate
