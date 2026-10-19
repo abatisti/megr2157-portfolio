@@ -133,9 +133,9 @@ Factor of Safety:
 
 Same calculation as previosly made
 
-Stress:
+Stress: 2.52%
 
-Deflection:
+Deflection: 0.45 %
 
-factor of safety:
+factor of safety: 2.55%
 
