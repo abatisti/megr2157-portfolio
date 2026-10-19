@@ -114,5 +114,28 @@ Weight: Besides all requirements being met the weight was reduced from the first
 ##  Second inner loop
 
 
-## Communicate
+Stress:
+
+<img width="586" height="712" alt="image" src="https://github.com/user-attachments/assets/02844d92-ee3b-41c8-b155-869a1fa58463" />
+
+
+Deflection:
+
+<img width="548" height="727" alt="image" src="https://github.com/user-attachments/assets/a0862170-6bc3-464b-b1e7-53a9b0ff5939" />
+
+
+Factor of Safety:
+
+<img width="548" height="718" alt="image" src="https://github.com/user-attachments/assets/8ea966f1-c6bc-46d1-87b2-48eae0f1d76c" />
+
+
+## Error estimation between loop 1 and 2:
+
+Same calculation as previosly made
+
+Stress:
+
+Deflection:
+
+factor of safety:
 
