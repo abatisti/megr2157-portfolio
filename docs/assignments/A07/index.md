@@ -271,3 +271,34 @@ Weight: 0.3538 pounds
 
 <img width="247" height="96" alt="image" src="https://github.com/user-attachments/assets/6b4602f6-cb63-4703-a4c3-e51fafdceedf" />
 
+
+## Inner loop 1.2)
+
+Stress:
+
+<img width="467" height="660" alt="Screenshot 2026-10-20 184616" src="https://github.com/user-attachments/assets/023d6558-e78f-4895-b4a7-c0b563bbd34a" />
+
+
+Deflection:
+
+<img width="475" height="752" alt="image" src="https://github.com/user-attachments/assets/d6ddacb7-3dc4-4dd9-839b-0fc3de3ba28f" />
+
+
+Factor of Safety:
+
+<img width="495" height="710" alt="image" src="https://github.com/user-attachments/assets/39365c64-a602-44e0-895c-107dd2c8030b" />
+
+
+**Error estimation between loop 3.1 and 3.2**
+
+Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
+
+Stress: 0.49%
+Deflection: 0.19%
+FOS: 0.50%
+
+Error percentage < 7%: Model validated!
+
+
+## Second outer loop)
+
