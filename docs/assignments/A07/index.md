@@ -139,3 +139,4 @@ Deflection: 0.45 %
 
 factor of safety: 2.55%
 
+Error percentage < 7%: Model validated!
