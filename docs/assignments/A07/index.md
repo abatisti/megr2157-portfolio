@@ -302,3 +302,25 @@ Error percentage < 7%: Model validated!
 
 ## Second outer loop)
 
+&nbsp;&nbsp;&nbsp;&nbsp;  For this first geometry alteration 2 major changes were made:
+
+- Overall vertical letgh decreased from 6 inches to 4.5 inches
+- Thickness halfed to 0.45 inches
+
+<img width="398" height="662" alt="image" src="https://github.com/user-attachments/assets/4670c0f8-3737-4c04-af9b-389a3d7f58a2" />
+
+
+## Inner loop 2.1 VS 2.2 and error estimation:
+
+Stress 2.1 on top and 2.2 bottom: Both still withing maximum stress
+
+<img width="675" height="777" alt="image" src="https://github.com/user-attachments/assets/8f8a1026-79a0-48fb-a761-517fc0a1168d" />
+
+Stress error estimation: 0.66%
+
+
+Deflection 2.1 on top and 2.2 bottom: Both still withing maximum deflection
+
+<img width="672" height="777" alt="image" src="https://github.com/user-attachments/assets/b9adce29-8f52-47a8-bdd9-ed173c69d4af" />
+
+Deflection error estimation: 0.66%
