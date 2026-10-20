@@ -242,4 +242,32 @@ Weight: 0.3251 pounds
 
 New Diameter: D = 1.6 inches
 Type of fit: running/sliding fit
-Class chosen: RC--
+Class chosen: RC 8 - Wide commercial tolerance
+Maximum fit clearance: 0.0115 inches
+
+**Initial design:**
+
+<img width="327" height="675" alt="image" src="https://github.com/user-attachments/assets/bdc4cc61-3091-4cf5-b8dd-f17262d84f24" />
+
+
+## Inner loop 1.1)
+
+Stress: Way below maximum allowed
+
+<img width="506" height="735" alt="image" src="https://github.com/user-attachments/assets/34c37472-17a9-406f-ab40-47b578b7b37b" />
+
+
+Deflection: Bellow maximum
+
+<img width="471" height="772" alt="image" src="https://github.com/user-attachments/assets/f4f4476c-aea8-4186-9f50-1acdbbc67558" />
+
+
+Factor of Safety: Factor of safety around 22
+
+<img width="498" height="702" alt="image" src="https://github.com/user-attachments/assets/42c873fb-3298-457d-a74f-d37115d6b3a8" />
+
+
+Weight: 0.3538 pounds
+
+<img width="247" height="96" alt="image" src="https://github.com/user-attachments/assets/6b4602f6-cb63-4703-a4c3-e51fafdceedf" />
+
