@@ -241,4 +241,5 @@ Weight: 0.3251 pounds
 &nbsp;&nbsp;&nbsp;&nbsp;  First the link fit had to be altered to match the new diameter of the bracket.
 
 New Diameter: D = 1.6 inches
-
+Type of fit: running/sliding fit
+Class chosen: RC--
