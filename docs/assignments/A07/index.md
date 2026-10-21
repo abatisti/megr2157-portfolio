@@ -2,7 +2,7 @@
 
 
 <br><br>
-## 1) First outer loop
+## 1) Outer loop
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;  For the first outer loop, the initial bracket design developed in Assignment 6 will be used.
 <br>
@@ -14,7 +14,7 @@
 <img width="437" height="727" alt="image" src="https://github.com/user-attachments/assets/785121fb-b048-4c2b-83a7-4202b5d4bc4a" />
 
 <br><br>
-### 1.1 Inner loop
+## 1.1) Inner loop
 
 First mesh was done at the set value on solidworks
 
@@ -40,7 +40,7 @@ Mass: <img width="132" height="27" alt="image" src="https://github.com/user-atta
 
 
 <br><br>
-**Second inner loop - (finner mesh)**
+## 1.2) Inner loop
 
 Finner mesh:
 <img width="432" height="727" alt="image" src="https://github.com/user-attachments/assets/3c018895-e2ee-45a5-9671-b1533fc0ab3f" />
@@ -76,7 +76,7 @@ FOS: 0.001%
 Error percentage < 7%: Model validated!
 
 <br><br>
-## Second outer loop
+## 2) Outer loop
 
 The overall bracket geometry was then modified. The primary objective of this first iteration was to meet all design requirements for strength, stiffness, and factor of safety. The following modifications were made:
 
@@ -90,7 +90,7 @@ The overall bracket geometry was then modified. The primary objective of this fi
 
 
 <br><br>
-## Fisrt inner loop
+## 2.1) Inner loop
 <br><br>
 - Stress: The maximum stress now falls under the yield stress and the factor of safety.
 <br>
@@ -114,7 +114,7 @@ The overall bracket geometry was then modified. The primary objective of this fi
 
 
 <br><br>
-##  Second inner loop
+## 2.2) Inner loop
 <br><br>
 - Stress:
 <br>
@@ -146,7 +146,7 @@ Factor of safety: 2.55%
 Error percentage < 7%: Model validated!
 
 <br><br>
-## Third outer loop
+## 3) Outer loop
 
 The primary objectives of this geometry modification were to reduce the bracket's weight and make final refinements to the design.
 
@@ -254,7 +254,7 @@ Weight: 0.3251 pounds
 &nbsp;&nbsp;&nbsp;&nbsp;  This assingment took me around 5 hours to fully complete so far.
 
 <br><br>
-## Link
+## Link - 1) Outer loop
 
 &nbsp;&nbsp;&nbsp;&nbsp;  First the link fit had to be altered to match the new diameter of the bracket.
 
@@ -272,7 +272,7 @@ Maximum fit clearance: 0.0115 inches
 <img width="327" height="675" alt="image" src="https://github.com/user-attachments/assets/bdc4cc61-3091-4cf5-b8dd-f17262d84f24" />
 
 <br><br>
-## Inner loop 1.1)
+## 1.1) Inner loop
 <br><br>
 Stress: Way below maximum allowed
 <br>
@@ -294,7 +294,7 @@ Weight: 0.3538 pounds
 <img width="247" height="96" alt="image" src="https://github.com/user-attachments/assets/6b4602f6-cb63-4703-a4c3-e51fafdceedf" />
 
 <br><br>
-## Inner loop 1.2)
+## 1.2) Inner loop 
 <br><br>
 Stress:
 <br>
@@ -322,7 +322,7 @@ FOS: 0.50%
 Error percentage < 7%: Model validated!
 
 <br><br>
-## Second outer loop)
+## 2) Outer loop
 
 &nbsp;&nbsp;&nbsp;&nbsp;  For this first geometry alteration 2 major changes were made:
 
