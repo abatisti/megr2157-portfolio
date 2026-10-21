@@ -14,7 +14,7 @@
 <img width="437" height="727" alt="image" src="https://github.com/user-attachments/assets/785121fb-b048-4c2b-83a7-4202b5d4bc4a" />
 
 <br><br>
-## 1.1) Inner loop
+### 1.1) Inner loop
 
 First mesh was done at the set value on solidworks
 
@@ -40,7 +40,7 @@ Mass: <img width="132" height="27" alt="image" src="https://github.com/user-atta
 
 
 <br><br>
-## 1.2) Inner loop
+### 1.2) Inner loop
 
 Finner mesh:
 <img width="432" height="727" alt="image" src="https://github.com/user-attachments/assets/3c018895-e2ee-45a5-9671-b1533fc0ab3f" />
@@ -90,7 +90,7 @@ The overall bracket geometry was then modified. The primary objective of this fi
 
 
 <br><br>
-## 2.1) Inner loop
+### 2.1) Inner loop
 <br><br>
 - Stress: The maximum stress now falls under the yield stress and the factor of safety.
 <br>
@@ -114,7 +114,7 @@ The overall bracket geometry was then modified. The primary objective of this fi
 
 
 <br><br>
-## 2.2) Inner loop
+### 2.2) Inner loop
 <br><br>
 - Stress:
 <br>
@@ -161,7 +161,7 @@ Changes made:
 <img width="457" height="682" alt="image" src="https://github.com/user-attachments/assets/ba83d892-db62-4748-9664-1b0cbeb66f03" />
 
 <br><br>
-## 3.1) Inner Loop
+### 3.1) Inner Loop
 
 <br><br>
 - Stress: There are 3 main areas with a stress concentration, all below the maximum alowed stress.
@@ -184,7 +184,7 @@ Changes made:
 <img width="231" height="90" alt="image" src="https://github.com/user-attachments/assets/6431384f-7459-40d0-9640-c0d992c52e5d" />
 
 <br><br>
-## 3.2) Inner Loop
+### 3.2) Inner Loop
 
 <br><br>
 - Stress:
@@ -272,7 +272,7 @@ Maximum fit clearance: 0.0115 inches
 <img width="327" height="675" alt="image" src="https://github.com/user-attachments/assets/bdc4cc61-3091-4cf5-b8dd-f17262d84f24" />
 
 <br><br>
-## 1.1) Inner loop
+### 1.1) Inner loop
 <br><br>
 Stress: Way below maximum allowed
 <br>
@@ -294,7 +294,7 @@ Weight: 0.3538 pounds
 <img width="247" height="96" alt="image" src="https://github.com/user-attachments/assets/6b4602f6-cb63-4703-a4c3-e51fafdceedf" />
 
 <br><br>
-## 1.2) Inner loop 
+### 1.2) Inner loop 
 <br><br>
 Stress:
 <br>
@@ -332,7 +332,7 @@ Error percentage < 7%: Model validated!
 <img width="398" height="662" alt="image" src="https://github.com/user-attachments/assets/4670c0f8-3737-4c04-af9b-389a3d7f58a2" />
 
 <br><br>
-## Inner loop 2.1 VS 2.2 and error estimation:
+### Inner loop 2.1 VS 2.2 and error estimation:
 <br>
 Stress 2.1 on top and 2.2 bottom: Both still withing maximum stress
 
@@ -359,7 +359,7 @@ FOS error estimation: 0.67%
 Error percentage < 7%: Model validated 
 
 <br><br>
-## Third outer loop)
+## 3) Outer loop
 
 &nbsp;&nbsp;&nbsp;&nbsp;  For this first geometry alteration 2 major changes were made:
 
@@ -370,8 +370,10 @@ Error percentage < 7%: Model validated
 <img width="396" height="692" alt="image" src="https://github.com/user-attachments/assets/ab18a5f6-7d14-4dc5-8523-6b34fa084cbe" />
 
 <br>
-## Inner loop 3.1 VS 3.2 and error estimation:
+
+### Inner loop 3.1 VS 3.2 and error estimation:
 <br>
+
 Stress 3.1 on top and 3.2 bottom: Both still withing maximum stress
 
 <img width="595" height="786" alt="image" src="https://github.com/user-attachments/assets/77d18d34-3e25-4e08-975e-64b605c59d35" />
