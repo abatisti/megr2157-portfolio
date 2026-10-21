@@ -324,3 +324,12 @@ Deflection 2.1 on top and 2.2 bottom: Both still withing maximum deflection
 <img width="672" height="777" alt="image" src="https://github.com/user-attachments/assets/b9adce29-8f52-47a8-bdd9-ed173c69d4af" />
 
 Deflection error estimation: 0.66%
+
+
+FOS 2.1 on top and 2.2 bottom: Both still withing maximum deflection
+
+
+<img width="640" height="767" alt="Screenshot 2026-10-21 160506" src="https://github.com/user-attachments/assets/7050055f-6200-429e-bce5-98112f04e2c7" />
+
+
+FOS error estimation: 0.67%
