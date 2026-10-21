@@ -131,7 +131,7 @@ The overall bracket geometry was then modified. The primary objective of this fi
 <img width="548" height="718" alt="image" src="https://github.com/user-attachments/assets/8ea966f1-c6bc-46d1-87b2-48eae0f1d76c" />
 
 <br><br>
-## Error estimation between loop 1 and 2:
+**Error estimation between loop 1 and 2:**
 
 Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
 
