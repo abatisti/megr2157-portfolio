@@ -2,7 +2,7 @@
 
 
 <br><br>
-## First outer loop
+## 1) First outer loop
 <br><br>
 &nbsp;&nbsp;&nbsp;&nbsp;  For the first outer loop, the initial bracket design developed in Assignment 6 will be used.
 <br>
@@ -14,7 +14,7 @@
 <img width="437" height="727" alt="image" src="https://github.com/user-attachments/assets/785121fb-b048-4c2b-83a7-4202b5d4bc4a" />
 
 <br><br>
-**Fisrt inner loop**
+### 1.1 Inner loop
 
 First mesh was done at the set value on solidworks
 
