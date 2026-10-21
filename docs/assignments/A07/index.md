@@ -8,12 +8,12 @@
 
 <img width="435" height="738" alt="Screenshot 2026-09-29 113950" src="https://github.com/user-attachments/assets/55057750-82d4-4a51-90dd-eebf2003d54a" />
 
-
+<br>
 &nbsp;&nbsp;&nbsp;&nbsp;  Then the correct constrains and loading were added to the previos geometry.
 
 <img width="437" height="727" alt="image" src="https://github.com/user-attachments/assets/785121fb-b048-4c2b-83a7-4202b5d4bc4a" />
 
-
+<br><br>
 **Fisrt inner loop**
 
 First mesh was done at the set value on solidworks
