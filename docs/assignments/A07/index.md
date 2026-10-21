@@ -65,9 +65,13 @@ Finner mesh:
 
 Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
 
-Stress: 6.80%
-Deflection: 0.707%
+
+Stress: 6.80%  
+
+Deflection: 0.707%  
+
 FOS: 0.001%
+
 
 Error percentage < 7%: Model validated!
 
@@ -131,9 +135,13 @@ The overall bracket geometry was then modified. The primary objective of this fi
 
 Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
 
+
 Stress: 2.52%  
+
 Deflection: 0.45 %  
+
 Factor of safety: 2.55%  
+
 
 Error percentage < 7%: Model validated!
 
@@ -197,9 +205,13 @@ Changes made:
 
 Formula: (Value1 - Value2) / ( Value1 + Value1) /2 ) ) * 100 %
 
-Stress: 0.26%
-Deflection: 5.97%
-FOS: 0.27%
+
+Stress: 0.26%  
+
+Deflection: 5.97%  
+
+FOS: 0.27%  
+
 
 Error percentage < 7%: Model validated!
 
@@ -239,9 +251,12 @@ Weight: 0.3251 pounds
 
 &nbsp;&nbsp;&nbsp;&nbsp;  First the link fit had to be altered to match the new diameter of the bracket.
 
-New Diameter: D = 1.6 inches
-Type of fit: running/sliding fit
-Class chosen: RC 8 - Wide commercial tolerance
+New Diameter: D = 1.6 inches  
+
+Type of fit: running/sliding fit  
+
+Class chosen: RC 8 - Wide commercial tolerance  
+
 Maximum fit clearance: 0.0115 inches
 
 <br><br>
