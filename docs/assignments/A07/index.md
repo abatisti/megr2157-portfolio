@@ -273,41 +273,41 @@ Maximum fit clearance: 0.0115 inches
 
 <br><br>
 ## Inner loop 1.1)
-<br>
+<br><br>
 Stress: Way below maximum allowed
-
+<br>
 <img width="506" height="735" alt="image" src="https://github.com/user-attachments/assets/34c37472-17a9-406f-ab40-47b578b7b37b" />
 
-<br>
+<br><br>
 Deflection: Bellow maximum
-
+<br>
 <img width="471" height="772" alt="image" src="https://github.com/user-attachments/assets/f4f4476c-aea8-4186-9f50-1acdbbc67558" />
 
-<br>
+<br><br>
 Factor of Safety: Factor of safety around 22
-
+<br>
 <img width="498" height="702" alt="image" src="https://github.com/user-attachments/assets/42c873fb-3298-457d-a74f-d37115d6b3a8" />
 
-<br>
+<br><br>
 Weight: 0.3538 pounds
-
+<br>
 <img width="247" height="96" alt="image" src="https://github.com/user-attachments/assets/6b4602f6-cb63-4703-a4c3-e51fafdceedf" />
 
 <br><br>
 ## Inner loop 1.2)
-<br>
+<br><br>
 Stress:
-
+<br>
 <img width="467" height="660" alt="Screenshot 2026-10-20 184616" src="https://github.com/user-attachments/assets/023d6558-e78f-4895-b4a7-c0b563bbd34a" />
 
-<br>
+<br><br>
 Deflection:
-
+<br>
 <img width="475" height="752" alt="image" src="https://github.com/user-attachments/assets/d6ddacb7-3dc4-4dd9-839b-0fc3de3ba28f" />
 
-<br>
+<br><br>
 Factor of Safety:
-
+<br>
 <img width="495" height="710" alt="image" src="https://github.com/user-attachments/assets/39365c64-a602-44e0-895c-107dd2c8030b" />
 
 <br><br>
