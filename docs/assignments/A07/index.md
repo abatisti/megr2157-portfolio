@@ -431,14 +431,14 @@ Weight: 0.039 pounds
 
 Bracket:
 
-- 1) https://1drv.ms/u/c/18c7b03a5d0433a3/IQB1lsb-INhvS47k43YEh3EnAeeXxKNxbzb33FqQu8OGWfk?e=1w6gNd
-- 2) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAXj6z1Y-x3RpOeDa6Qwu6vAfi5lONBWcFpx3JNYQsUBVs?e=4M1d5R
-- 3) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAJmAClz1-xS5nez0S6iYlEAUe0kdga0HXiGKqUJYPW5vQ?e=R9f2t6
+- 1 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQB1lsb-INhvS47k43YEh3EnAeeXxKNxbzb33FqQu8OGWfk?e=1w6gNd
+- 2 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAXj6z1Y-x3RpOeDa6Qwu6vAfi5lONBWcFpx3JNYQsUBVs?e=4M1d5R
+- 3 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAJmAClz1-xS5nez0S6iYlEAUe0kdga0HXiGKqUJYPW5vQ?e=R9f2t6
 
 
 Link:
 
-- 1) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAp_OaMGrgNTZ5hpLHTt1yKAXt-T6rpHQWZR0gIdV346uY?e=UXOHrG
-- 2) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAqw-wbGT0NSoGBIKa5-FIhAbUY7TH553juOI6-bIlrS7w?e=jKtxme
-- 3) https://1drv.ms/u/c/18c7b03a5d0433a3/IQCb_WiUSvDHT7VBENGRdhR2Adqi7hqLGzEz68vvWclhm4c?e=9C8NqO
+- 1 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAp_OaMGrgNTZ5hpLHTt1yKAXt-T6rpHQWZR0gIdV346uY?e=UXOHrG
+- 2 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQAqw-wbGT0NSoGBIKa5-FIhAbUY7TH553juOI6-bIlrS7w?e=jKtxme
+- 3 ) https://1drv.ms/u/c/18c7b03a5d0433a3/IQCb_WiUSvDHT7VBENGRdhR2Adqi7hqLGzEz68vvWclhm4c?e=9C8NqO
   
