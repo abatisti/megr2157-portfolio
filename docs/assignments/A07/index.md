@@ -223,9 +223,12 @@ Error percentage < 7%: Model validated!
 <br>
 <img width="435" height="738" alt="Screenshot 2026-09-29 113950" src="https://github.com/user-attachments/assets/55057750-82d4-4a51-90dd-eebf2003d54a" />
 <br>
-Stress: 173.3 ksi
-Deflection: 0.6531 inches
-Factor of safety: 0.2092
+Stress: 173.3 ksi  
+
+Deflection: 0.6531 inches  
+
+Factor of safety: 0.2092  
+
 Weight: 1.0185 pounds
 
 <br><br>
@@ -233,9 +236,13 @@ Weight: 1.0185 pounds
 
 <img width="457" height="682" alt="image" src="https://github.com/user-attachments/assets/ba83d892-db62-4748-9664-1b0cbeb66f03" />
 <br>
-Stress: 9.056 ksi
-Deflection: 0.002484 inches
-Factor of Safety: 4.004
+
+Stress: 9.056 ksi  
+
+Deflection: 0.002484 inches  
+
+Factor of Safety: 4.004  
+
 Weight: 0.3251 pounds
 
 <br><br>
