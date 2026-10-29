@@ -50,6 +50,10 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 &nbsp;&nbsp;&nbsp;&nbsp;  Additionally, an error was identified in this section: the bearing length was initially selected arbitrarily rather than determined from the specifications of the exact McMaster-Carr component chosen. The correct approach would have been to select the bearing model first and use its specified length in the subsequent calculations for its material.
 
+**Input bearing:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZeP35LllKT6Ep9sh3ioyEAXXha0GKGxNK-xVV6vwO-K4?e=BGPaik
+
+**Output bearing:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQBTPEVv9R6ASpGgDa1GfJ7GAS3BS5dYBApzxTBrABVlCzo?e=Keo8xR
+
 
 ## 3) Gearbox sketch:
 
@@ -62,8 +66,123 @@ Design a gearbox which can be assembled and disassembled. The spur gears have a 
 
 ## 4) CAD model:
 
-&nbsp;&nbsp;&nbsp;&nbsp;  First I started building both of my shafts, using the hole of the gear as dimeter and 1 inch as lengh.  
+
+**Shafts**
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  First I started building both of my shafts, using the hole of the gear as dimeter and 1 inch as length. The shafts were modeled by first extruding the basic geometry to the of 1 inch length. After assembling the shafts into the gearbox, a smaller-diameter section was added to each shaft to help secure it within the housing and minimize unwanted movement.
 
 &nbsp;&nbsp;&nbsp;&nbsp; At this stage, another error was made, as the appropriate clearance between the shaft and the journal bearing was not included. This oversight was only identified later in the design process, when the tolerances were being specified in the technical drawings.
+
+
+Input Shaft:  
+
+<img width="966" height="311" alt="image" src="https://github.com/user-attachments/assets/ff2bf158-8c62-4f16-b319-2a42c7940ec3" />
+
+
+
+Output shaft:  
+
+<img width="457" height="415" alt="image" src="https://github.com/user-attachments/assets/25b6f2b8-4fdc-4f66-accf-216c3f5f3ac2" />
+
+
+
+**Gears assembly**
+
+&nbsp;&nbsp;&nbsp;&nbsp;  My next step was to start the assembly by correctly placing the gears in parallel with the adequade distance between them.
+
+<img width="943" height="742" alt="Screenshot 2026-10-27 111006" src="https://github.com/user-attachments/assets/9991ff6b-6d78-4ec3-8d36-583400b4c4c7" />
+
+
+**Gearbox**
+
+&nbsp;&nbsp;&nbsp;&nbsp; Using the measurements obtained in the previous step, I created the gearbox base profile, which was used for both the top and bottom halves of the housing. The profile was created by offsetting the gear circumferences by 0.1 in to provide clearance and connecting the resulting arcs with tangent lines. Both the top and bottom halves were then given walls by bossing an inward offset of 0.05 in to the thickness calculated in the gearbox design calculations.
+
+<img width="870" height="787" alt="Screenshot 2026-10-27 113111" src="https://github.com/user-attachments/assets/03ae592c-779b-4f77-8796-02f11d0e6d2d" />
+
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; The top half had pins added to them, and the bottom side its respective holes.
+
+&nbsp;&nbsp;&nbsp;&nbsp; And unfortunately just like a previous step I forgot to add the correct clearance, and in the future, the correct tolerances.
+
+**Top gearbox**
+
+<img width="925" height="657" alt="Screenshot 2026-10-27 114231" src="https://github.com/user-attachments/assets/69e3aac5-c9cb-457c-87f4-5fa3c10c7bdf" />
+
+
+**Bottom gearbox**
+
+<img width="821" height="612" alt="Screenshot 2026-10-27 114550" src="https://github.com/user-attachments/assets/45841a6c-ca0c-466c-8cba-04fad36d46f7" />
+
+
+**Complete assembly**
+
+&nbsp;&nbsp;&nbsp;&nbsp; With the gears assembled, I first added their respective shafts, followed by the gearbox halves. The following pictures show the modified shaft and gearbox holes designed to reduce unwanted gear movement within the housing. This design was inspired by a plastic gearbox I had previously worked with.
+
+**Exploded view**
+
+<img width="720" height="583" alt="Screenshot 2026-10-27 114900" src="https://github.com/user-attachments/assets/58ce9580-7bca-40fc-af94-aedef76b502a" />
+
+
+**Isometric view + transparent gearbox**
+
+<img width="556" height="538" alt="Screenshot 2026-10-27 121119" src="https://github.com/user-attachments/assets/e88a76bc-d605-49b2-945f-71ac2a2bdc71" />
+
+
+**Upper view**
+
+<img width="677" height="677" alt="Screenshot 2026-10-27 121053" src="https://github.com/user-attachments/assets/327b84f5-85bd-4b30-ae0c-fe67a8fd24e6" />
+
+
+**Upper view + transparent gearbox**
+
+<img width="682" height="690" alt="Screenshot 2026-10-27 121105" src="https://github.com/user-attachments/assets/08c06dd0-2715-41d4-8a1b-42729339250a" />
+
+
+## 5) Drawings
+
+
+&nbsp;&nbsp;&nbsp;&nbsp;  An FN1 fit was selected as the interference fit between the shafts and the gear hubs to ensure secure attachment and prevent relative rotation during operation.
+
+- **Input Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQD47FNRBxK2Sol2JbMdiKBOAVJ7sX14egcYeW31P1gCS7k?e=umpo3a
+- **Output Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAWiyrdFWAmQqQmep-I3HpxAVzdzeQusf4AdoupxMjm_JQ?e=LJvhVu
+
+**Gearbox top:**
+
+[Gearbox top.pdf](https://github.com/user-attachments/files/34108023/Gearbox.top.pdf)
+
+  
+- **Gearbox bottom:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZmb_u06KrQ4GxxIw2-RuGAVRZI2vkwYaB-l_DdQAjtIg?e=XiWXMQ
+- **Input gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQBAT8fbefl4TZJ1fdFGbOroAUdLrM89BAgi4yPuyZ14S1c?e=CUORIY
+- **Output gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAIm16Dx0K-SZo_4Sl2aVIJAYem-fa_jKhLmRjaQUEYlbE?e=835Sjg
+
+
+
+## Final observations
+
+&nbsp;&nbsp;&nbsp;&nbsp;  I recognize that several mistakes were made during this assignment, including forgetting to account for part clearances and specify the appropriate tolerances. These issues could have been avoided by consulting Machinery’s Handbook while designing the parts. Unfortunately, I developed the habit of assigning the same nominal dimensions to mating components, which may work in a CAD assembly but would not necessarily work in a real-life application.  
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Another aspect I would approach differently given more time is incorporating the journal bearings into the gearbox assembly. I initially decided not to include them because the bearings I found were considerably thicker than I had envisioned for my design, and I was unsure how to address this issue. After reviewing reference assignments from TAs and students from previous semesters, I noticed that they had also omitted the bearings, so I followed the same approach.
+
+&nbsp;&nbsp;&nbsp;&nbsp; Overall, this assignment took approximately 7 hours to complete, with the most time-consuming part being the initial calculations, as I needed time to understand the equations required for the design.
+
+
+
+
+
+## CAD links:
+
+- **Input Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQD47FNRBxK2Sol2JbMdiKBOAVJ7sX14egcYeW31P1gCS7k?e=umpo3a
+- **Output Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAWiyrdFWAmQqQmep-I3HpxAVzdzeQusf4AdoupxMjm_JQ?e=LJvhVu
+- **Gearbox top:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAQX5OCSltXR6uau0axqstGAS1r4G8q6ck9tbUWQn7q7gc?e=ASMZYS
+- **Gearbox bottom:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZmb_u06KrQ4GxxIw2-RuGAVRZI2vkwYaB-l_DdQAjtIg?e=XiWXMQ
+- **Input gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQBAT8fbefl4TZJ1fdFGbOroAUdLrM89BAgi4yPuyZ14S1c?e=CUORIY
+- **Output gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAIm16Dx0K-SZo_4Sl2aVIJAYem-fa_jKhLmRjaQUEYlbE?e=835Sjg
+- **Assembly:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQC9J5kOXBLBRrcjN4dAiVtmARXJx4RzRc_jFC-1Tl-Y7HY?e=Pr30o7
+
+
+
+
 
 
