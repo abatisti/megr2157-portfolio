@@ -145,17 +145,34 @@ Output shaft:
 
 &nbsp;&nbsp;&nbsp;&nbsp;  An FN1 fit was selected as the interference fit between the shafts and the gear hubs to ensure secure attachment and prevent relative rotation during operation.
 
-- **Input Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQD47FNRBxK2Sol2JbMdiKBOAVJ7sX14egcYeW31P1gCS7k?e=umpo3a
-- **Output Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAWiyrdFWAmQqQmep-I3HpxAVzdzeQusf4AdoupxMjm_JQ?e=LJvhVu
+**Input Shaft:**
+
+<img width="1634" height="935" alt="Input Shaft" src="https://github.com/user-attachments/assets/d0f134b2-040e-4ffb-a5f3-712d0cdd7c5c" />
+
+
+**Output Shaft:**
+
+<img width="1634" height="935" alt="Output Shaft" src="https://github.com/user-attachments/assets/e68e6b56-a2db-476f-aed5-ebceb8a4c24f" />
+
 
 **Gearbox top:**
 
-[Gearbox top.pdf](https://github.com/user-attachments/files/34108023/Gearbox.top.pdf)
+<img width="1634" height="935" alt="Gearbox top" src="https://github.com/user-attachments/assets/c0c99260-4839-445c-87dd-4305c7011847" />
 
   
-- **Gearbox bottom:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZmb_u06KrQ4GxxIw2-RuGAVRZI2vkwYaB-l_DdQAjtIg?e=XiWXMQ
-- **Input gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQBAT8fbefl4TZJ1fdFGbOroAUdLrM89BAgi4yPuyZ14S1c?e=CUORIY
-- **Output gear:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAIm16Dx0K-SZo_4Sl2aVIJAYem-fa_jKhLmRjaQUEYlbE?e=835Sjg
+**Gearbox bottom:**
+
+<img width="1634" height="935" alt="Gearbox bottom" src="https://github.com/user-attachments/assets/aebde680-1d02-4854-803d-09a0c5f5c8a8" />
+
+
+**Input gear:** 
+
+<img width="1634" height="935" alt="Input Gear" src="https://github.com/user-attachments/assets/4b899b12-3abf-4f42-a975-bd17ca72fd30" />
+
+
+**Output gear:** 
+
+<img width="1634" height="935" alt="Output Shaft" src="https://github.com/user-attachments/assets/c4f91a43-1266-4ef4-86b4-1e53ec0b18a7" />
 
 
 
@@ -173,11 +190,8 @@ Output shaft:
 
 ## CAD links:
 
-**Input Shaft:**
 
-<img width="1634" height="935" alt="Input Shaft" src="https://github.com/user-attachments/assets/d0f134b2-040e-4ffb-a5f3-712d0cdd7c5c" />
-
-  
+- **Input Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQD47FNRBxK2Sol2JbMdiKBOAVJ7sX14egcYeW31P1gCS7k?e=umpo3a
 - **Output Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAWiyrdFWAmQqQmep-I3HpxAVzdzeQusf4AdoupxMjm_JQ?e=LJvhVu
 - **Gearbox top:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAQX5OCSltXR6uau0axqstGAS1r4G8q6ck9tbUWQn7q7gc?e=ASMZYS
 - **Gearbox bottom:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZmb_u06KrQ4GxxIw2-RuGAVRZI2vkwYaB-l_DdQAjtIg?e=XiWXMQ
