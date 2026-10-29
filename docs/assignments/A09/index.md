@@ -1,6 +1,12 @@
 # A9 – Pulleys
 
-## Objective
+## introduction
+
+**Objective:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;  Design a puley.
+
+
 
 
 ## Analyze
