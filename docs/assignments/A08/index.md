@@ -173,7 +173,11 @@ Output shaft:
 
 ## CAD links:
 
-- **Input Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQD47FNRBxK2Sol2JbMdiKBOAVJ7sX14egcYeW31P1gCS7k?e=umpo3a
+**Input Shaft:**
+
+<img width="1634" height="935" alt="Input Shaft" src="https://github.com/user-attachments/assets/d0f134b2-040e-4ffb-a5f3-712d0cdd7c5c" />
+
+  
 - **Output Shaft:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAWiyrdFWAmQqQmep-I3HpxAVzdzeQusf4AdoupxMjm_JQ?e=LJvhVu
 - **Gearbox top:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAQX5OCSltXR6uau0axqstGAS1r4G8q6ck9tbUWQn7q7gc?e=ASMZYS
 - **Gearbox bottom:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQAZmb_u06KrQ4GxxIw2-RuGAVRZI2vkwYaB-l_DdQAjtIg?e=XiWXMQ
