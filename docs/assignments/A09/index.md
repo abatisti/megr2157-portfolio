@@ -17,7 +17,18 @@
 
 
 
-## Analyze
+## 1) Belt Design
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; To select a suitable belt, the tension forces on its tight and slack sides were first calculated. These forces were then used to determine the minimum belt diameter based on the allowable tensional normal stress.
+
+&nbsp;&nbsp;&nbsp;&nbsp; A specific static friction coefficient for the aluminum pulley and rubber belt combination could not be determined because the available research articles were either inaccessible to the public or required paid access.
+
+<img width="876" height="1229" alt="1440" src="https://github.com/user-attachments/assets/1fb91dd7-1bf8-46cf-a1b0-44a44b36c87d" />
+
+<img width="1169" height="1404" alt="1441" src="https://github.com/user-attachments/assets/9bc2804e-c21f-453d-ae0d-573a70a39f96" />
+
+
 
 
 ## Decide
