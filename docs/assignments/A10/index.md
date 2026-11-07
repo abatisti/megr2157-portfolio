@@ -60,7 +60,23 @@
 <img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
 
-## Analyze
+## 2) Nut and Flange Design (Ana Carolina)
+
+By applying the following selection criteria to the available nuts and flanges:  
+
+- Material: Bronze
+- Thread Size: 1/2"-10
+- Thread direction: Right-hand
+- Class: 2G
+
+The remaining suitable option was the 932 Bearing Bronze Flange Nut (McMaster-Carr part number 95120A111):
+
+<img width="1107" height="397" alt="image" src="https://github.com/user-attachments/assets/b201278c-4c81-4aeb-88ac-256417c7b033" />
+
+ 
+
+
+ 
 
 
 ## Decide
