@@ -41,7 +41,11 @@
 <img width="1381" height="1886" alt="1463" src="https://github.com/user-attachments/assets/b5846b6d-5f24-4f82-8a79-115e72ea0453" />
 
 
+### Maximum torque calculations:  
 
+&nbsp;&nbsp;&nbsp;&nbsp; The maximum torque will be calculated using the equation provided in Machinery's Handbook, page 2647:
+
+<img width="1716" height="627" alt="c832fc3a-23e7-4b8b-838d-642d1b0e5554" src="https://github.com/user-attachments/assets/a353a2d7-ef11-4a8f-8263-d220c511c6bf" />
 
 
 
