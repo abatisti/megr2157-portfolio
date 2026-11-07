@@ -28,6 +28,20 @@
 <img width="1168" height="1468" alt="1462" src="https://github.com/user-attachments/assets/ade05e6d-16c0-42c6-9216-86df5004e385" />
 
 
+### Rotational speed calculations:
+
+&nbsp;&nbsp;&nbsp;&nbsp;  To calculate the rotational speed required to achieve the specified linear speed, a lead screw had to be selected to determine its travel per revolution (lead). Therefore, the screw that best matched the diameter calculations was the smallest available option. Upon further inspection, its minor diameter was found to be 0.4 inches, significantly exceeding the calculated minimum requirement.
+
+**Screw chosen:** 
+
+<img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
+
+**Rotational Speed:**
+
+
+
+
+
 
 ## Analyze
 
