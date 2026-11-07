@@ -28,7 +28,7 @@
 <img width="1168" height="1468" alt="1462" src="https://github.com/user-attachments/assets/ade05e6d-16c0-42c6-9216-86df5004e385" />
 
 
-### Rotational speed calculations:
+### Rotational speed:
 
 &nbsp;&nbsp;&nbsp;&nbsp;  To calculate the rotational speed required to achieve the specified linear speed, a lead screw had to be selected to determine its travel per revolution (lead). Therefore, the screw that best matched the diameter calculations was the smallest available option. Upon further inspection, its minor diameter was found to be 0.4 inches, significantly exceeding the calculated minimum requirement.
 
@@ -36,18 +36,28 @@
 
 <img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
-**Rotational Speed:**  The rotational speed was calculated in both revolutions per minute (RPM) and radians per second (rad/s) to express the required screw rotation in two different units.
+**Rotational Speed Calculations:**  The rotational speed was calculated in both revolutions per minute (RPM) and radians per second (rad/s) to express the required screw rotation in two different units.
 
 <img width="1381" height="1886" alt="1463" src="https://github.com/user-attachments/assets/b5846b6d-5f24-4f82-8a79-115e72ea0453" />
 
 
-### Maximum torque calculations:  
+### Maximum torque:  
 
 &nbsp;&nbsp;&nbsp;&nbsp; The maximum torque will be calculated using the equation provided in Machinery's Handbook, page 2647:
 
 <img width="1716" height="627" alt="c832fc3a-23e7-4b8b-838d-642d1b0e5554" src="https://github.com/user-attachments/assets/a353a2d7-ef11-4a8f-8263-d220c511c6bf" />
 
+**Torque calculations**
 
+
+<img width="1183" height="702" alt="1464" src="https://github.com/user-attachments/assets/638e2ae7-c11d-437d-965a-fd6cf51d776f" />
+
+
+### Screw Chosen:
+
+&nbsp;&nbsp;&nbsp;&nbsp; After completing all calculations, the lead screw selected in the rotational speed section was retained as the final design choice. The selected component is the 2 ft long, 1/2"-10 ACME carbon steel lead screw (McMaster-Carr part number 98935A911).
+
+<img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
 
 ## Analyze
