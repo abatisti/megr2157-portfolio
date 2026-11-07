@@ -36,7 +36,10 @@
 
 <img width="1422" height="472" alt="image" src="https://github.com/user-attachments/assets/3f428395-68ac-466a-b2fd-0e26ff82bf8b" />
 
-**Rotational Speed:**
+**Rotational Speed:**  The rotational speed was calculated in both revolutions per minute (RPM) and radians per second (rad/s) to express the required screw rotation in two different units.
+
+<img width="1381" height="1886" alt="1463" src="https://github.com/user-attachments/assets/b5846b6d-5f24-4f82-8a79-115e72ea0453" />
+
 
 
 
