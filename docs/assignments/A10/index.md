@@ -73,10 +73,14 @@ The remaining suitable option was the 932 Bearing Bronze Flange Nut (McMaster-Ca
 
 <img width="1107" height="397" alt="image" src="https://github.com/user-attachments/assets/b201278c-4c81-4aeb-88ac-256417c7b033" />
 
- 
+
+ &nbsp;&nbsp;&nbsp;&nbsp; With the flange nut already selected, the next step is to evaluate the nut threads' bending stress and verify that it does not exceed the allowable stress of the material after accounting for the required factor of safety.
 
 
- 
+<img width="1170" height="1462" alt="1465" src="https://github.com/user-attachments/assets/92980696-e9be-41da-849e-3ae4e37b8117" />
+
+
+&nbsp;&nbsp;&nbsp;&nbsp; The allowable stress was found to exceed the calculated bending stress in the nut threads. Therefore, the selected flange nut satisfies this design criterion and is approved based on thread bending stress.
 
 
 ## Decide
