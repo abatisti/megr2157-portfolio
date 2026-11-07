@@ -24,7 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  The minimum minor diameter was determined by analyzing the allowable tensile stress in the lead screw while incorporating the required factor of safety.  
 &nbsp;&nbsp;&nbsp;&nbsp; The selected material was carbon steel. Since the design does not require the higher strength of alloy steel, carbon steel was considered sufficient to meet the design requirements while offering a lower material cost.
 
-<img width="940" height="1466" alt="1461" src="https://github.com/user-attachments/assets/26c871be-7fb0-4220-a0c2-dda86f8559a2" />
+
+<img width="1168" height="1468" alt="1462" src="https://github.com/user-attachments/assets/ade05e6d-16c0-42c6-9216-86df5004e385" />
 
 
 
