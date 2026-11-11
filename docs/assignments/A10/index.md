@@ -90,3 +90,27 @@ I discussed with my teammates regarding what beam analysis model to use: "both e
 <img width="1892" height="2220" alt="1" src="https://github.com/user-attachments/assets/21999318-b518-4b89-be39-ccc878808d8a" />
 
 
+The diameter of the flange that the team decided on was 1.25 inches, so I used that for the minimum base dimension (converting to mm, which results in a base length of 31.75 mm). With a combination of research and the knowing the height of the lead screws we were using, we decided that the length of the crosshead (between the centerlines of the lead screws) would be 1 foot (which, converted to metric, is 304.8 millimeters).
+
+
+The team decided that the material for the crosshead would be ASTM A36 steel, which has an elastic modulus of 2x10^11 N/m^2, and a yield strength equal to 2.5x10^8 N/m^2. As such, the stress/strain analysis resulted in a height of 1.054x10^-3 mm, and the deflection analysis resulted in a height of 28.145 mm, which is the height we decided to use for the crosshead.
+
+
+<img width="2362" height="1272" alt="2" src="https://github.com/user-attachments/assets/7397ddf6-3e1e-48a6-873c-02a07add59f5" />
+
+
+### Drawings:
+
+<img width="3065" height="1342" alt="3" src="https://github.com/user-attachments/assets/8a7ffa11-44e9-4c2c-9a96-6be0e48eae0c" />
+
+<img width="3007" height="1345" alt="4" src="https://github.com/user-attachments/assets/7a2a7b66-03cd-470d-9bbd-661bb218bd19" />
+
+
+## Tabulating Costs (Logan Dreifuss)
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| --- | --- | --- | --- | --- | --- |
+| #1 | 2 | Lead Screw | $6.95 | $13.90 | [Lead Screw Purchase Link](https://www.mcmaster.com/98935A911/) |
+| #2 | 2 | Flange Nut | $125.72 | $251.44 | [Flange Nut Purchase Link](https://www.mcmaster.com/95120A111/) |
+| --- | --- | --- | Total Cost: | $265.34 | --- |
+
