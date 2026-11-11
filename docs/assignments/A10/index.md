@@ -83,8 +83,10 @@ The remaining suitable option was the 932 Bearing Bronze Flange Nut (McMaster-Ca
 &nbsp;&nbsp;&nbsp;&nbsp; The allowable stress was found to exceed the calculated bending stress in the nut threads. Therefore, the selected flange nut satisfies this design criterion and is approved based on thread bending stress.
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+## Designing the Crosshead (Logan Dreifuss)
 
-## Communicate
+I discussed with my teammates regarding what beam analysis model to use: "both ends overhanging supports", "supported at both ends", or "fixed at both ends". We decided on "fixed at both ends" model, because that prevents the crosshead from twisting at its ends.
+
+<img width="1892" height="2220" alt="1" src="https://github.com/user-attachments/assets/21999318-b518-4b89-be39-ccc878808d8a" />
+
 
