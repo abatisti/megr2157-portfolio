@@ -162,3 +162,20 @@ The locations of each max and min for the second design are nearly identical to 
 
 ## Drawing
 <img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
+
+
+**Downloads**
+
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/A10_Assembly.zip" download>Download Assembly zip</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHeadn.SLDPRT" download>Download  Crosshead</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/a10_crosshead 2nd Design.SLDPRT" download>Download Optimized Crosshead</a>
+<a href="https://github.com/tmansou1/megr2157-portfolio/raw/refs/heads/main/CrossHead.SLDDRW" download>Download Crosshead Drawing</a>
+
+## Lesson learned and time spend
+
+  - **Ana:** I learned the importance of understanding thread geometry and how its different dimensions influence mechanical performance. Since this was one of the areas I struggled with the most, I realized that properly interpreting thread geometry is essential for selecting compatible components and accurately evaluating stress, torque, and mechanical efficiency. My time spent was 4 hours and a half.
+  - **Logan:**
+  - **Taye:** This assignment took me(Taye Mansour) about 4 hours total
+
+
+
