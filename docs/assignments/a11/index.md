@@ -11,7 +11,8 @@
 
 ### Motor selected:
 
-&nbsp;&nbsp;&nbsp;&nbsp;  The motor chosen was the NEMA 23, stepper motor, number 6627T631 on MC master car. It provides a torque between 240-260 in*ozf when 7.07 Amp (Parallel wiring) or 3.54 Amps (series wiring) is applied troughout the speed range, with a precise, highly repeateble crosshead velocity. Plus, it has a compact footprint, having an appropriate geometry for the tensile terster's benchtoop design. 
+&nbsp;&nbsp;&nbsp;&nbsp;  The motor chosen was the NEMA 23, stepper motor, number 6627T631 on MC master car. It provides a torque between 240-260 in*ozf when 7.07 Amp (Parallel wiring) or 3.54 Amps (series wiring) is applied troughout the speed range, with a precise, highly repeateble crosshead velocity. Plus, it has a compact footprint, having an appropriate geometry for the tensile terster's benchtoop design. It is the chepest NEMA 23 option that complides with the torque needed in the speed range.
+&nbsp;&nbsp;&nbsp;&nbsp; DC motorswere to fast and didnt deliver as much torque as needed, and gearmotors proved hard to understand when choosing a model on master car, therefore thats why I landed on stepper motors, besides the name "NEMA" sounded familiar since we were introduced to it during classes.
 
 https://www.mcmaster.com/6627T631/ 
 
