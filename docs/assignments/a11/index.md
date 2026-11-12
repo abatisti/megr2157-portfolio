@@ -1,6 +1,8 @@
-# A11 – Motor Selection
+# A11 – Motor Selection Design
 
-## Objective
+## Motor Selection and attachments
+
+
 
 
 ## Analyze
