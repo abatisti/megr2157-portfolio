@@ -17,6 +17,14 @@
 
 **Motor link:** https://www.mcmaster.com/6627T631/ 
 
+<img width="464" height="601" alt="Motor picture" src="https://github.com/user-attachments/assets/1821522f-babb-4236-bec5-d0b0a33db8a5" />
+
+<img width="1050" height="811" alt="Motor dimentions" src="https://github.com/user-attachments/assets/2825f8be-3567-4bf8-90e4-f4ed6ae40670" />
+
+
+
+
+
 need the charchas and important info.
 
 ## Analyze
