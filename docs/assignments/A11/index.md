@@ -1,6 +1,6 @@
 # A11 – Motor Selection Design
 
-## Motor Selection and attachments
+## Motor Selection (Ana Carolina)
 
 &nbsp;&nbsp;&nbsp;&nbsp; To select an appropriate motor for the design, it was necessary to identify a model capable of delivering sufficient output torque throughout the required rotational speed range. These parameters were previously calculated in the lead screw section of the preceding assignment, as follows: 
 
