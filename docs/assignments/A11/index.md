@@ -2,16 +2,17 @@
 
 ## Motor Selection and attachments
 
-&nbsp;&nbsp;&nbsp;&nbsp; To find an appropriate motor for the design it would need to find a model that provided sufficient output torque trought the rotational speed range, both calculated on previos assingment on the lead screw section, where:  
+&nbsp;&nbsp;&nbsp;&nbsp; To select an appropriate motor for the design, it was necessary to identify a model capable of delivering sufficient output torque throughout the required rotational speed range. These parameters were previously calculated in the lead screw section of the preceding assignment, as follows: 
 
 - Torque = 14.31 lbf*in = 229 in*ozf
 - Rot. speed range = 0.3937 - 19.68 RPM
 
-**Obs:** A mistake was found on the result of rotational speed, where the given linear speed units were understood as mm/s instead of, the correct, mm/min. The mistake was fixed and correct value is being currently used.
+**Obs:** An error was identified in the initial rotational speed calculation. The specified linear speed was mistakenly interpreted as mm/s rather than the correct unit, mm/min. This unit conversion error was corrected, and the revised rotational speed value is being used in the subsequent motor selection process.
 
 ### Motor selected:
 
-&nbsp;&nbsp;&nbsp;&nbsp;  The motor chosen was the NEMA 23, stepper motor, number 6627T631 on MC master car. It provides a torque between 240-260 in*ozf when 7.07 Amp (Parallel wiring) or 3.54 Amps (series wiring) is applied troughout the speed range, with a precise, highly repeateble crosshead velocity. Plus, it has a compact footprint, having an appropriate geometry for the tensile terster's benchtoop design. It is the chepest NEMA 23 option that complides with the torque needed in the speed range.
+&nbsp;&nbsp;&nbsp;&nbsp;  The selected motor is the NEMA 23 stepper motor (McMaster-Carr part number 6627T631). It provides an output torque ranging from 240 to 260 ozf·in across the required rotational speed range when operated at 7.07 A with parallel wiring or 3.54 A with series wiring. 
+&nbsp;&nbsp;&nbsp;&nbsp;  Additionally, its stepper motor design allows for precise and repeatable control of the crosshead velocity, which is essential for maintaining the specified testing conditions. Its compact dimensions also make it suitable for integration into the tensile tester's benchtop configuration. Among the NEMA 23 options evaluated, this model was the least expensive alternative that satisfied the required torque specifications.
 &nbsp;&nbsp;&nbsp;&nbsp; DC motorswere to fast and didnt deliver as much torque as needed, and gearmotors proved hard to understand when choosing a model on master car, therefore thats why I landed on stepper motors, besides the name "NEMA" sounded familiar since we were introduced to it during classes.
 
 https://www.mcmaster.com/6627T631/ 
