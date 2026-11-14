@@ -15,7 +15,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;  Additionally, its stepper motor design allows for precise and repeatable control of the crosshead velocity, which is essential for maintaining the specified testing conditions. Its compact dimensions also make it suitable for integration into the tensile tester's benchtop configuration. Among the NEMA 23 options evaluated, this model was the least expensive alternative that satisfied the required torque specifications.
 &nbsp;&nbsp;&nbsp;&nbsp; DC motorswere to fast and didnt deliver as much torque as needed, and gearmotors proved hard to understand when choosing a model on master car, therefore thats why I landed on stepper motors, besides the name "NEMA" sounded familiar since we were introduced to it during classes.
 
-https://www.mcmaster.com/6627T631/ 
+**Motor link:** https://www.mcmaster.com/6627T631/ 
 
 need the charchas and important info.
 
