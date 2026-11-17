@@ -33,7 +33,11 @@ need the charchas and important info.
 
 ## Analyze and design a Frame (Ana Carolina)
 
-&nbsp;&nbsp;&nbsp;&nbsp;  To desing the bracket the wort case scenario witll be used, in witch all toque of the motor is transfered to the frame instead of the lead screw. 
+&nbsp;&nbsp;&nbsp;&nbsp;  To desing the bracket the wort case scenario witll be used, in witch all toque of the motor is transfered to the frame instead of the lead screw. And as instructed in the assingment the reactions will be analyzed at the ends of the top frame instead of the bracket screw, where they would mostly be locaded in real life.
+
+
+Only one bracket was found that worket with the geometry of the frame component. lets check if it stands the forces acting on it
+
 
 
 
