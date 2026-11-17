@@ -31,7 +31,12 @@
 
 need the charchas and important info.
 
-## Analyze
+## Analyze and design a Frame (Ana Carolina)
+
+&nbsp;&nbsp;&nbsp;&nbsp;  To desing the bracket the wort case scenario witll be used, in witch all toque of the motor is transfered to the frame instead of the lead screw. 
+
+
+
 
 
 ## Decide
