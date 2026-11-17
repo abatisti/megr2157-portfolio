@@ -62,9 +62,30 @@ Closer view to model setup:
 
 Study results: The study showed that the factor of safety under the stress of the material is kept at a higher value than needed, and the deflection is kept at mkinimum, therefore the top frame was successfully verified.
 
+
 <img width="1166" height="501" alt="Screenshot 2026-11-17 161622" src="https://github.com/user-attachments/assets/703d6d3b-c76f-405d-a3be-82bed9277bc2" />
 
 <img width="1103" height="507" alt="Screenshot 2026-11-17 161906" src="https://github.com/user-attachments/assets/dd603b2e-daac-4558-8a3d-f8ade346f5be" />
 
 <img width="1126" height="462" alt="Screenshot 2026-11-17 161745" src="https://github.com/user-attachments/assets/f41bc9a4-e460-49b7-a5eb-74f8c48a3917" />
+
+
+
+### Vertical frame analysis
+
+&nbsp;&nbsp;&nbsp;&nbsp; To do this analysis the calculated reaction forces were used on the area were the bracket would be located during assembly and a fixed geometry at the bottom end of the frame.
+
+
+<img width="212" height="727" alt="image" src="https://github.com/user-attachments/assets/72944a1e-8335-462d-93e7-7c30ef56108a" />
+
+Study result: The study showed that the factor of safety under the stress of the material is kept at a higher value than needed, and the deflection is kept at mkinimum, therefore the vertical frames were successfully verified.
+
+
+<img width="395" height="727" alt="image" src="https://github.com/user-attachments/assets/b78b5701-a301-4bdd-b431-81b28e865e22" />
+
+<img width="293" height="737" alt="image" src="https://github.com/user-attachments/assets/d50aeab8-076a-4e88-86b8-81fd92e5d815" />
+
+<img width="366" height="748" alt="image" src="https://github.com/user-attachments/assets/38f8b350-6505-4817-aafc-6a51b28e38af" />
+
+
 
