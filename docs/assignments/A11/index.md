@@ -33,17 +33,38 @@ need the charchas and important info.
 
 ## Analyze and design a Frame (Ana Carolina)
 
+### Bracket design
+
 &nbsp;&nbsp;&nbsp;&nbsp;  To desing the bracket the wort case scenario witll be used, in witch all toque of the motor is transfered to the frame instead of the lead screw. And as instructed in the assingment the reactions will be analyzed at the ends of the top frame instead of the bracket screw, where they would mostly be locaded in real life.
 
 
-Only one bracket was found that worket with the geometry of the frame component. lets check if it stands the forces acting on it
+Only one bracket was found that worket with the geometry of the frame component. lets check if it stands the forces acting on it, unfortunately that would be to complicated to do, therefore it will be done on solidworks, with material being aluminium (6063-T6) and the forces and fixtures being added into the wholes themsellves.
 
 
+<img width="887" height="618" alt="Screenshot 2026-11-17 121808" src="https://github.com/user-attachments/assets/e9965e2b-6b50-498c-b9f5-84f929ecebcf" />
 
 
+<img width="797" height="558" alt="Screenshot 2026-11-17 121826" src="https://github.com/user-attachments/assets/a1a42dcc-6c95-40c8-91dc-754fd730f6b2" />
+
+Therefore, according to study the bracket does work with the according 4 safety factor.
+
+### Top frame verification
+
+&nbsp;&nbsp;&nbsp;&nbsp; Frame from previos fbd was created and the forces applied to it were simulated, using the edge faces as fixed supports to simplify it and to further maqtch the calculations.
+
+<img width="1348" height="342" alt="Screenshot 2026-11-17 160706" src="https://github.com/user-attachments/assets/384ac155-cf46-4882-9c6c-cfc4057f9990" />
 
 
-## Decide
-_Reference your concept selection (Pugh matrix) here. How does this design follow from that decision?_
+Closer view to model setup:
 
-## Communicate
+<img width="792" height="452" alt="Screenshot 2026-11-17 160718" src="https://github.com/user-attachments/assets/e343ef44-c681-424c-8c5d-515980000f66" />
+
+
+Study results: The study showed that the factor of safety under the stress of the material is kept at a higher value than needed, and the deflection is kept at mkinimum, therefore the top frame was successfully verified.
+
+<img width="1166" height="501" alt="Screenshot 2026-11-17 161622" src="https://github.com/user-attachments/assets/703d6d3b-c76f-405d-a3be-82bed9277bc2" />
+
+<img width="1103" height="507" alt="Screenshot 2026-11-17 161906" src="https://github.com/user-attachments/assets/dd603b2e-daac-4558-8a3d-f8ade346f5be" />
+
+<img width="1126" height="462" alt="Screenshot 2026-11-17 161745" src="https://github.com/user-attachments/assets/f41bc9a4-e460-49b7-a5eb-74f8c48a3917" />
+
