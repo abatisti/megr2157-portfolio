@@ -52,18 +52,19 @@ Therefore, according to study the bracket does work with the according 4 safety 
 
 &nbsp;&nbsp;&nbsp;&nbsp; Frame from previos fbd was created and the forces applied to it were simulated, using the edge faces as fixed supports to simplify it and to further maqtch the calculations.
 
-<img width="995" height="338" alt="Screenshot 2026-11-18 142419" src="https://github.com/user-attachments/assets/23b01ed0-cf90-46b4-bc4a-569b65abeb1c" />
+<img width="960" height="287" alt="image" src="https://github.com/user-attachments/assets/e218cfce-1c44-474d-a08b-391dcda43811" />
 
 
 
 Study results: The study showed that the factor of safety under the stress of the material is kept at a higher value than needed, and the deflection is kept at mkinimum, therefore the top frame was successfully verified.
 
 
-<img width="1150" height="502" alt="image" src="https://github.com/user-attachments/assets/d824e882-26b7-47b2-b77b-abfed79f72b1" />
+<img width="1153" height="502" alt="image" src="https://github.com/user-attachments/assets/3241e01b-3b72-4a01-8999-e75097971359" />
 
-<img width="1087" height="475" alt="image" src="https://github.com/user-attachments/assets/f5596679-7249-4072-9e86-b4a17c909d2f" />
+<img width="1112" height="467" alt="image" src="https://github.com/user-attachments/assets/9d758f03-8c20-4854-97b6-c479cce6c3f2" />
 
-<img width="1098" height="473" alt="image" src="https://github.com/user-attachments/assets/81441c77-a900-4db3-9350-8ded01618800" />
+<img width="1102" height="472" alt="image" src="https://github.com/user-attachments/assets/874dfbb2-6a94-4a5e-887e-e28d54e6eb0e" />
+
 
 
 
