@@ -80,11 +80,12 @@ need the charchas and important info.
 **Study result:** The simulation results showed that the factor of safety based on the material's yield strength exceeds the required minimum value. Additionally, the vertical frames experience minimal deflection under the applied loading conditions. Therefore, the structural integrity of the vertical frames was successfully verified.
 
 
-<img width="395" height="727" alt="image" src="https://github.com/user-attachments/assets/b78b5701-a301-4bdd-b431-81b28e865e22" />
+<img width="370" height="663" alt="image" src="https://github.com/user-attachments/assets/7b036e01-0b87-472f-864f-ce9d4176e9f5" />
 
-<img width="293" height="737" alt="image" src="https://github.com/user-attachments/assets/d50aeab8-076a-4e88-86b8-81fd92e5d815" />
+<img width="297" height="667" alt="image" src="https://github.com/user-attachments/assets/c2760a33-3057-40a9-92df-6b459475b54a" />
 
-<img width="366" height="748" alt="image" src="https://github.com/user-attachments/assets/38f8b350-6505-4817-aafc-6a51b28e38af" />
+<img width="303" height="651" alt="image" src="https://github.com/user-attachments/assets/02ec3389-93f4-4b02-9501-2cc4dd9fffe9" />
+
 
 
 
