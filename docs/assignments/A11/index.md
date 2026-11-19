@@ -1,8 +1,7 @@
-# A11 – Motor Selection Design
-
+# A11 – Motor Selection
 ## Motor Selection (Ana Carolina)
 
-&nbsp;&nbsp;&nbsp;&nbsp; To select an appropriate motor for the design, it was necessary to identify a model capable of delivering sufficient output torque throughout the required rotational speed range. These parameters were previously calculated in the lead screw section of the preceding assignment, as follows: 
+&nbsp;&nbsp;&nbsp;&nbsp; To select an appropriate motor for the design, it was necessary to identify a model capable of delivering sufficient output torque throughout the required rotational speed range. These parameters were previously calculated in the lead screw section of the preceding assignment, as follows:
 
 - Torque = 14.31 lbf*in = 229 in*ozf
 - Rot. speed range = 0.3937 - 19.68 RPM
@@ -11,25 +10,30 @@
 
 ### Motor selected:
 
-&nbsp;&nbsp;&nbsp;&nbsp;  The selected motor is the NEMA 23 stepper motor (McMaster-Carr part number 6627T631). It provides an output torque ranging from 240 to 260 ozf·in across the required rotational speed range when operated at 7.07 A with parallel wiring or 3.54 A with series wiring. 
+&nbsp;&nbsp;&nbsp;&nbsp;  The selected motor is the NEMA 23 stepper motor (McMaster-Carr part number 6627T631). It provides an output torque ranging from 240 to 260 ozf·in across the required rotational speed range when operated at 7.07 A with parallel wiring or 3.54 A with series wiring.
 &nbsp;&nbsp;&nbsp;&nbsp;  Additionally, its stepper motor design allows for precise and repeatable control of the crosshead velocity, which is essential for maintaining the specified testing conditions. Its compact dimensions also make it suitable for integration into the tensile tester's benchtop configuration. Among the NEMA 23 options evaluated, this model was the least expensive alternative that satisfied the required torque specifications.
 &nbsp;&nbsp;&nbsp;&nbsp; DC motorswere to fast and didnt deliver as much torque as needed, and gearmotors proved hard to understand when choosing a model on master car, therefore thats why I landed on stepper motors, besides the name "NEMA" sounded familiar since we were introduced to it during classes.
 
-**Motor link:** https://www.mcmaster.com/6627T631/ 
+**Motor link:** https://www.mcmaster.com/6627T631/
 
 <img width="464" height="601" alt="Motor picture" src="https://github.com/user-attachments/assets/1821522f-babb-4236-bec5-d0b0a33db8a5" />
-
 <img width="1050" height="811" alt="Motor dimentions" src="https://github.com/user-attachments/assets/2825f8be-3567-4bf8-90e4-f4ed6ae40670" />
-
-
-
 <img width="377.5" height="286" alt="Torque speed charch 3A" src="https://github.com/user-attachments/assets/d4ec2557-814f-4814-8017-274885c9c11c" />
 <img width="377.5" height="286" alt="Troque speed charch 7A" src="https://github.com/user-attachments/assets/76320a6e-c0ec-4df0-b8a9-68bf3bc6b9f8" />
 
+## Motor Mount Design (Logan Dreifuss)
+
+<img width="3050" height="2315" alt="1000027518" src="https://github.com/user-attachments/assets/0d5210b7-a8b2-4525-8a50-cccffe21c59b" />
 
 
+## Coupler (Taye Mansour)
+I had to use WolframAlpha for the final calculation of the outer diameter, as I could not solve it regularly. The calculations only required an outer diameter of 0.512" and a thickness of 0.012". The smallest outer diameter coupler that fits the other specs on McMaster-Carr was 1.25", so that's what I used.
+<img width="3626" height="2699" alt="IMG_1006" src="https://github.com/user-attachments/assets/07f5f0ca-fb40-4622-9fcf-f7fb704b2737" />
+<img width="1032" height="182" alt="image1" src="https://github.com/user-attachments/assets/250bc831-bd28-49ae-9004-07f286313777" />
+<img width="178" height="55" alt="image3" src="https://github.com/user-attachments/assets/413e1552-04e3-47f0-9b6d-f368f394990b" />
+<img width="1034" height="436" alt="image4" src="https://github.com/user-attachments/assets/87629a27-b7bd-4a60-b4c7-8e3eab6c3e3d" />
 
-need the charchas and important info.
+The chosen coupler is part number 6208K565 on McMaster-Carr.
 
 ## Analyze and design a Frame (Ana Carolina)
 
@@ -39,13 +43,10 @@ need the charchas and important info.
 
 <img width="1353" height="361" alt="Screenshot 2026-11-17 115541" src="https://github.com/user-attachments/assets/454045af-08f4-4e9c-b173-fd95d9778c5a" />
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;  Only one bracket was found to be compatible with the geometry of the frame component. The next step is to evaluate whether it can withstand the applied forces. Since performing this analysis analytically would be too complex, the evaluation will be conducted using SolidWorks Simulation. The bracket material will be defined as aluminum 6063-T6, and the corresponding forces and fixtures will be applied directly to the holes to represent the loading and mounting conditions.
 
 
 <img width="887" height="618" alt="Screenshot 2026-11-17 121808" src="https://github.com/user-attachments/assets/e9965e2b-6b50-498c-b9f5-84f929ecebcf" />
-
-
 <img width="797" height="558" alt="Screenshot 2026-11-17 121826" src="https://github.com/user-attachments/assets/a1a42dcc-6c95-40c8-91dc-754fd730f6b2" />
 
 &nbsp;&nbsp;&nbsp;&nbsp; Therefore, based on the simulation results, the selected bracket is suitable for the applied loading conditions, satisfying the required factor of safety of 4.
@@ -56,24 +57,17 @@ need the charchas and important info.
 
 <img width="960" height="287" alt="image" src="https://github.com/user-attachments/assets/e218cfce-1c44-474d-a08b-391dcda43811" />
 
-
-
 **Study results:** The simulation results showed that the factor of safety based on the material's yield strength exceeds the required minimum value. Additionally, the frame experiences minimal deflection under the applied loading conditions. Therefore, the structural integrity of the top frame was successfully verified.
 
-
 <img width="1153" height="502" alt="image" src="https://github.com/user-attachments/assets/3241e01b-3b72-4a01-8999-e75097971359" />
-
 <img width="1112" height="467" alt="image" src="https://github.com/user-attachments/assets/9d758f03-8c20-4854-97b6-c479cce6c3f2" />
-
 <img width="1102" height="472" alt="image" src="https://github.com/user-attachments/assets/874dfbb2-6a94-4a5e-887e-e28d54e6eb0e" />
 
 **Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
 
-
 ### Vertical frame analysis
 
 &nbsp;&nbsp;&nbsp;&nbsp; To perform this analysis, the calculated reaction forces were applied to the area where the bracket will be mounted during assembly, while a fixed geometry constraint was applied to the bottom end of the frame to represent its support conditions.
-
 
 <img width="212" height="727" alt="image" src="https://github.com/user-attachments/assets/72944a1e-8335-462d-93e7-7c30ef56108a" />
 
@@ -81,30 +75,57 @@ need the charchas and important info.
 
 
 <img width="370" height="663" alt="image" src="https://github.com/user-attachments/assets/7b036e01-0b87-472f-864f-ce9d4176e9f5" />
-
 <img width="297" height="667" alt="image" src="https://github.com/user-attachments/assets/c2760a33-3057-40a9-92df-6b459475b54a" />
-
 <img width="303" height="651" alt="image" src="https://github.com/user-attachments/assets/02ec3389-93f4-4b02-9501-2cc4dd9fffe9" />
 
-
 **Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
-
-
-
-
-
 
 ### Frame assembly (Ana Carolina)
 
 <img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
 
 
-**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY 
+**CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
+
+## Floating bearing (Taye Mansour)
+The floating bearing is where the size of the T bolts and nuts come from. The slot width of the frame is 8.24mm so the chosen bolt is a M8-1.25 with a length of 30mm, enough to pass through the bearing and attach to the slim nut. Each bolt hole is 9mm because it is a normal clearance hole according the machinery's handbook pg.1745. The square base of 3" long came from the width of the frame. We also used both mm and inches because this was a group project and some dimension were already given. The bearing has an RC3 fit class so I made the hole 0.5006+0.0017" and the leadscrew stays at 0.5000".
+
+<img width="3158" height="2641" alt="IMG_1007" src="https://github.com/user-attachments/assets/9544487a-3f62-4c83-aa68-b2494d476cb3" />
+<img width="1048" height="1078" alt="bearing" src="https://github.com/user-attachments/assets/7da3757b-4e4f-4519-b0e1-26ea3af6eb1a" />
+<img width="921" height="440" alt="image2" src="https://github.com/user-attachments/assets/a0aed2e0-7369-45eb-b093-7f6ac4d98373" />
+<img width="696" height="389" alt="image5" src="https://github.com/user-attachments/assets/dfb2f4f8-1bd4-45f4-880a-0eb19d03cc61" />
 
 
 
-## Lessons learned and time spend
+## Tabulating costs (Taye Mansour)
+
+(Not including designed parts)
+
+| Item Number | Quantity | Name | Cost/Item | Cost | Purchase Link |
+| --- | --- | --- | --- | --- | --- |
+| #1 | 2 | Lead Screw | $6.95 | $13.90 | [Lead Screw Purchase Link](https://www.mcmaster.com/98935A911/) |
+| #2 | 2 | Flange Nut | $125.72 | $251.44 | [Flange Nut Purchase Link](https://www.mcmaster.com/95120A111/) |
+| #3 | 28 | Bolt Nut 5pk | $0.59 | $17.70 | [Bolt Nut Purchase Link](https://www.mcmaster.com/90453A115/) |
+| #4 | 28 | T Bolt | $10.72 | $300.16 | [T Bolt Purchase Link](https://www.mcmaster.com/91523A232/) |
+| #5 | 2 | Coupler | $102.50 | $205.00 | [Coupler Purchase Link](https://www.mcmaster.com/6208K565/) |
+| #6 | 1 | 10ft Frame | $264.97 | $264.97 | [Frame Purchase Link](https://www.grainger.com/product/80-20-T-Slot-Framing-System-Rectangle-804T48?searchQuery=804T48&searchBar=true&suggestConfigId=6&s_e=false&s_c=solr9) |
+| #7 | 2 | Motor | $100.92 | $201.84 | [Motor Purchase Link](https://www.mcmaster.com/6627T631/) |
+| #8 | 4 | Bracket | $10.92 | $43.68 | [Bracket Purchase Link](https://www.grainger.com/product/80-20-Inside-Corner-Bracket-Wide-5JRU7?searchQuery=40+4303&searchBar=true&tier=Tier+6&s_e=false&s_c=solr9) |
+| #9 | 13.5 | A10 Labor | $35.00 | $472.50 | --- |
+| #10 | 15.5 | A11 Labor | $35.00 | $542.50 | --- |
+| --- | --- | --- | Total Cost: | $2313.69 | --- |
+
+## 2157 Assignment - Drawings (Logan Dreifuss)
+
+<img width="1447" height="1120" alt="a10_Drawing" src="https://github.com/user-attachments/assets/431596a0-4b61-4123-9ea1-254262dac2a5" />
+<img width="1017" height="787" alt="image" src="https://github.com/user-attachments/assets/ce11a8f4-7ccb-4db8-b93b-9e9f68fe3273" />
+<img width="995" height="773" alt="image" src="https://github.com/user-attachments/assets/c394be77-5146-40e8-9106-3c18153ad39b" />
+<img width="1012" height="787" alt="image" src="https://github.com/user-attachments/assets/800bd3a6-748d-40a9-885d-73c4b74ea512" />
+
+## lessons learned and time spent
 
   - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
-  - **Logan:** 
-  - **Taye:** 
+  - **Logan:** I learned how bearing stress calculations work and what simplifications you can make to make the calculating process easier. This project took me 4.5 hours.
+  - **Taye:** I learned how to use external tools like WolframAlpha to aid my calculating process, tools are meant to be used. This project took me about 4 hours total.
+
+**CAD Links Again:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY
