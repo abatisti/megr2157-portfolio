@@ -102,3 +102,9 @@ need the charchas and important info.
 **CAD Links:** https://1drv.ms/u/c/18c7b03a5d0433a3/IQALZxqgb13MRY-nTaYj_S_4AUU8uFRsCA0n0b1BX2xXlQU?e=966HuY 
 
 
+
+## Lessons learned and time spend
+
+  - **Ana:**  This project reinforced the importance of considering the overall geometry and configuration of an assembly when designing individual components. A component must not only satisfy its own design requirements but also remain compatible with the dimensions, interfaces, and functionality of the other parts in the assembly. My portion of this project took approximately 7 hours to complete.
+  - **Logan:** 
+  - **Taye:** 
