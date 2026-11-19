@@ -67,7 +67,7 @@ need the charchas and important info.
 
 <img width="1102" height="472" alt="image" src="https://github.com/user-attachments/assets/874dfbb2-6a94-4a5e-887e-e28d54e6eb0e" />
 
-
+**Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
 
 
 ### Vertical frame analysis
@@ -85,6 +85,13 @@ need the charchas and important info.
 <img width="297" height="667" alt="image" src="https://github.com/user-attachments/assets/c2760a33-3057-40a9-92df-6b459475b54a" />
 
 <img width="303" height="651" alt="image" src="https://github.com/user-attachments/assets/02ec3389-93f4-4b02-9501-2cc4dd9fffe9" />
+
+
+**Optimization Pass:** This component could potentially be optimized by removing material from its central region and reducing its overall length. However, these modifications would require corresponding adjustments to other components in the assembly to maintain compatibility and proper fit.
+
+
+
+
 
 
 ### Frame assembly (Ana Carolina)
