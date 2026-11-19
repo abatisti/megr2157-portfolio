@@ -87,5 +87,8 @@ need the charchas and important info.
 <img width="303" height="651" alt="image" src="https://github.com/user-attachments/assets/02ec3389-93f4-4b02-9501-2cc4dd9fffe9" />
 
 
+### Frame assembly (Ana Carolina)
+
+<img width="803" height="787" alt="image" src="https://github.com/user-attachments/assets/e6abcbdc-7967-426e-94d8-097803297d20" />
 
 
